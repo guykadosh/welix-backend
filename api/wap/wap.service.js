@@ -4,8 +4,6 @@ const ObjectId = require('mongodb').ObjectId
 
 async function query(options) {
   try {
-    const sortBy = JSON.parse(options.sortBy)
-    const filterBy = JSON.parse(options.filterBy)
     const criteria = _buildCriteria(filterBy)
 
     const collection = await dbService.getCollection('wap')
@@ -65,6 +63,42 @@ async function update(wap) {
   }
 }
 
+async function updateCmp(wapId, cmp) {
+  const collection = await dbService.getCollection('wap')
+  const wap = collection.findOne({ _id: ObjectId(wapId) })
+
+  let idx = wap.cmps.findIndex(cmp => cmp.id === cmp.id)
+
+  // -1 means the cmp lives inside a wap container
+  if (idx === -1) {
+    // wap-nav is inside header if not stand alone
+    if (cmp.type === 'wap-nav') {
+      const wapHeader = wap.cmps.find(currCmp => currCmp.type === 'wap-header')
+      wapHeader.info.nav = cmp
+    } else {
+      // find the the container
+      const wapContainer = wap.cmps
+        .filter(currCmp => currCmp.type === 'wap-container')
+        .find(currCmp =>
+          currCmp.info.cmps.some(currCmp => currCmp.id === cmp.id)
+        )
+
+      // find the cmp idx
+      const innerIdx = wapContainer.info.cmps.findIndex(
+        cmp => cmp.id === cmp.id
+      )
+
+      // const copy = JSON.parse(JSON.stringify(wapContainer))
+      // idx = cmps.findIndex(cmp => cmp.id === wapContainer.id)
+
+      wapContainer.info.cmps.splice(innerIdx, 1, cmp)
+      wap.cmps.splice(idx, 1, wapContainer)
+    }
+  } else {
+    wap.cmps.splice(idx, 1, cmp)
+  }
+}
+
 module.exports = {
   remove,
   query,
@@ -73,25 +107,23 @@ module.exports = {
   update,
 }
 
-function _buildCriteria(filterBy = { txt: '', labels: null, status: '' }) {
-  const { labels, txt, status } = filterBy
+function _buildCriteria(
+  filterBy = { isPublic: undefined, userId: '', isTemplate: undefined }
+) {
+  const { isPublic, userId, isTemplate } = filterBy
 
   const criteria = {}
 
-  if (txt) {
-    criteria.name = { $regex: txt, $options: 'i' }
+  if (isPublic !== null) {
+    criteria.isPublic = true
   }
 
-  if (labels && labels.length > 0) {
-    const labelsCrit = labels.map(label => ({
-      labels: { $elemMatch: { title: label } },
-    }))
-
-    criteria.$and = labelsCrit
+  if (isTemplate !== null) {
+    criteria.isPublic = true
   }
 
-  if (status) {
-    criteria.inStock = status === 'stock' ? true : false
+  if (userId) {
+    criteria.createdBy = { $elemMatch: { _id: userId } }
   }
 
   return criteria

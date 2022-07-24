@@ -62,6 +62,20 @@ async function removeWap(req, res) {
   }
 }
 
+// Update cmp inside wap
+async function updateCmp(req, res) {
+  try {
+    let { cmp, wapId } = req.body
+    cmp = JSON.parse(cmp)
+
+    const updatedCmp = await wapService.updateCmp(wapId, cmp)
+    res.json(updatedCmp)
+  } catch (err) {
+    logger.error('Failed to update cmp', err)
+    res.status(500).send({ err: 'Failed to updare cmp' })
+  }
+}
+
 module.exports = {
   getWaps,
   getWapById,
