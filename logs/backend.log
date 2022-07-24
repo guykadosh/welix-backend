@@ -181,5 +181,145 @@
 24.7.2022, 20:41:30 - ERROR - cannot find cmps | {}
 24.7.2022, 20:41:30 - ERROR - Failed to get Cmpsssss | {}
 24.7.2022, 20:47:02 - INFO - Server is running on port: 3030
+<<<<<<< HEAD
 24.7.2022, 22:01:39 - INFO - Server is running on port: 3030
 24.7.2022, 22:01:43 - INFO - Server is running on port: 3030
+=======
+7/24/2022, 9:19:00 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:19:19 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:19:25 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:19:32 PM - DEBUG - Getting Cmp
+7/24/2022, 9:19:32 PM - DEBUG - Getting cmps
+7/24/2022, 9:19:32 PM - ERROR - cannot find cmps | {}
+7/24/2022, 9:19:32 PM - ERROR - Failed to get Cmpsssss | {}
+7/24/2022, 9:20:34 PM - DEBUG - Getting Waps
+7/24/2022, 9:20:34 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:20:34 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:21:57 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:21:58 PM - DEBUG - Getting Waps
+7/24/2022, 9:21:58 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:21:58 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:22:00 PM - DEBUG - Getting Waps
+7/24/2022, 9:22:00 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:22:00 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:22:02 PM - DEBUG - Getting Waps
+7/24/2022, 9:22:02 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:22:02 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:22:03 PM - DEBUG - Getting Waps
+7/24/2022, 9:22:03 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:22:03 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:22:04 PM - DEBUG - Getting Waps
+7/24/2022, 9:22:04 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:22:04 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:22:22 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:22:31 PM - DEBUG - Getting Waps
+7/24/2022, 9:22:31 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:22:31 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:24:23 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:24:35 PM - DEBUG - Getting Waps
+7/24/2022, 9:24:35 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:24:35 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:24:36 PM - DEBUG - Getting Waps
+7/24/2022, 9:24:36 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:24:36 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:24:37 PM - DEBUG - Getting Waps
+7/24/2022, 9:24:37 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:24:37 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:24:46 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:25:01 PM - DEBUG - Getting Waps
+7/24/2022, 9:25:01 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:25:01 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:29:12 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:29:19 PM - DEBUG - Getting Waps
+7/24/2022, 9:29:19 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:29:19 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:30:09 PM - DEBUG - Getting Waps
+7/24/2022, 9:30:09 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:30:09 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:30:41 PM - DEBUG - Getting Waps
+7/24/2022, 9:30:41 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:30:41 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:31:22 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:31:39 PM - DEBUG - Getting Waps
+7/24/2022, 9:31:39 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:31:39 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:31:48 PM - DEBUG - Getting Waps
+7/24/2022, 9:31:48 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:31:48 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:33:22 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:33:38 PM - DEBUG - Getting Waps
+7/24/2022, 9:33:38 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:33:38 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:33:39 PM - DEBUG - Getting Waps
+7/24/2022, 9:33:39 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:33:39 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:36:42 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:36:47 PM - DEBUG - Getting Waps
+7/24/2022, 9:36:47 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:36:47 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:36:48 PM - DEBUG - Getting Waps
+7/24/2022, 9:36:48 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:36:48 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:36:49 PM - DEBUG - Getting Waps
+7/24/2022, 9:36:49 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:36:49 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:37:00 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:37:01 PM - DEBUG - Getting Waps
+7/24/2022, 9:37:01 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:37:01 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:37:03 PM - DEBUG - Getting Waps
+7/24/2022, 9:37:03 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:37:03 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:38:05 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:38:26 PM - DEBUG - Getting Waps
+7/24/2022, 9:38:26 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:38:26 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:39:51 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:45:09 PM - DEBUG - Getting Cmp
+7/24/2022, 9:45:09 PM - DEBUG - Getting cmps
+7/24/2022, 9:45:09 PM - ERROR - cannot find cmps | {}
+7/24/2022, 9:45:09 PM - ERROR - Failed to get Cmpsssss | {}
+7/24/2022, 9:45:32 PM - DEBUG - Getting Cmp
+7/24/2022, 9:45:32 PM - DEBUG - Getting cmps
+7/24/2022, 9:45:32 PM - ERROR - cannot find cmps | {}
+7/24/2022, 9:45:32 PM - ERROR - Failed to get Cmpsssss | {}
+7/24/2022, 9:46:07 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:46:28 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:46:33 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:46:53 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:46:53 PM - DEBUG - Getting Cmp
+7/24/2022, 9:46:53 PM - DEBUG - Getting cmps
+7/24/2022, 9:46:53 PM - ERROR - cannot find cmps | {}
+7/24/2022, 9:46:53 PM - ERROR - Failed to get Cmpsssss | {}
+7/24/2022, 9:48:55 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:48:58 PM - DEBUG - Getting Cmp
+7/24/2022, 9:48:58 PM - DEBUG - Getting cmps
+7/24/2022, 9:48:58 PM - ERROR - Failed to get Cmpsssss | {"code":"ERR_HTTP_HEADERS_SENT"}
+7/24/2022, 9:51:01 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:51:07 PM - DEBUG - Getting Waps
+7/24/2022, 9:51:07 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:51:07 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:51:30 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:51:34 PM - DEBUG - Getting Waps
+7/24/2022, 9:51:34 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:51:34 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:52:49 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:52:50 PM - INFO - Sample Logger Middleware
+7/24/2022, 9:52:50 PM - DEBUG - Getting Waps
+7/24/2022, 9:52:50 PM - ERROR - cannot find waps | {}
+7/24/2022, 9:52:50 PM - ERROR - Failed to get waps | {}
+7/24/2022, 9:54:03 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:54:04 PM - INFO - Sample Logger Middleware
+7/24/2022, 9:54:04 PM - DEBUG - Getting Waps
+7/24/2022, 9:56:28 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:56:32 PM - DEBUG - Getting Cmp
+7/24/2022, 9:56:32 PM - DEBUG - Getting cmps
+7/24/2022, 9:56:34 PM - ERROR - Failed to get Cmpsssss | {"code":"ERR_HTTP_HEADERS_SENT"}
+7/24/2022, 9:57:34 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:59:16 PM - INFO - Server is running on port: 3030
+7/24/2022, 9:59:25 PM - DEBUG - Getting Cmp
+7/24/2022, 9:59:25 PM - DEBUG - Getting cmps
+7/24/2022, 9:59:31 PM - INFO - Sample Logger Middleware
+7/24/2022, 9:59:31 PM - DEBUG - Getting Waps
+>>>>>>> 13364fb042b693d7460a54901f048107b05ddfbe
+24.7.2022, 22:03:03 - INFO - Server is running on port: 3030

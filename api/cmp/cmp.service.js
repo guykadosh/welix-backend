@@ -6,10 +6,9 @@ const asyncLocalStorage = require('../../services/als.service')
 async function query() {
   try {
     logger.debug('Getting cmps')
-    const collection = await dbService.getCollection('cmp_db')
-    console.log('collection:',collection);
-    var cmps = await collection.find()
-    console.log('cmpsssss', cmps);
+    const collection = await dbService.getCollection('cmp')
+    console.log(collection)
+    var cmps = await collection.find().toArray()
     return cmps
   } catch (err) {
     logger.error('cannot find cmps', err)
