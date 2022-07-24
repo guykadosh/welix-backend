@@ -10,17 +10,16 @@ const {
   addWap,
   updateWap,
   removeWap,
-  addReview,
 } = require('./wap.controller')
 const router = express.Router()
 
 // middleware that is specific to this router
 // router.use(requireAuth)
-
+// requireAuth, requireAdmin,
 router.get('/', log, getWaps)
 router.get('/:id', getWapById)
-router.post('/', requireAuth, requireAdmin, addWap)
-router.put('/:id', requireAuth, requireAdmin, updateWap)
-router.delete('/:id', requireAuth, requireAdmin, removeWap)
+router.post('/', addWap)
+router.put('/:id', updateWap)
+router.delete('/:id', removeWap)
 
 module.exports = router

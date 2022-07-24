@@ -4,10 +4,12 @@ const ObjectId = require('mongodb').ObjectId
 
 async function query(options) {
   try {
-    const criteria = _buildCriteria(filterBy)
+    // const criteria = _buildCriteria(filterBy)
 
+    // console.log('Hi?')
     const collection = await dbService.getCollection('wap')
-    var waps = await collection.find(criteria).sort(sortBy).toArray()
+    console.log(collection)
+    var waps = await collection.find().toArray()
     return waps
   } catch (err) {
     logger.error('cannot find waps', err)
