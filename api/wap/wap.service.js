@@ -2,13 +2,11 @@ const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
 const ObjectId = require('mongodb').ObjectId
 
-async function query(options) {
+async function query(filterBy) {
   try {
-    // const criteria = _buildCriteria(filterBy)
+    const criteria = _buildCriteria(filterBy)
 
-    // console.log('Hi?')
     const collection = await dbService.getCollection('wap')
-    console.log(collection)
     var waps = await collection.find().toArray()
     return waps
   } catch (err) {
@@ -20,7 +18,8 @@ async function query(options) {
 async function getById(wapId) {
   try {
     const collection = await dbService.getCollection('wap')
-    const wap = collection.findOne({ _id: ObjectId(wapId) })
+    const wap = await collection.findOne({ _id: ObjectId(wapId) })
+    console.log(wap)
     return wap
   } catch (err) {
     logger.error(`while finding wap ${wapId}`, err)
@@ -66,39 +65,74 @@ async function update(wap) {
 }
 
 async function updateCmp(wapId, cmp) {
-  const collection = await dbService.getCollection('wap')
-  const wap = collection.findOne({ _id: ObjectId(wapId) })
+  try {
+    logger.debug('Updating Cmp, service')
+    // console.log(wapId, cmp)
+    // find wap
+    const collection = await dbService.getCollection('wap')
+    const wap = await collection.findOne({ _id: ObjectId(wapId) })
+    console.log('SEMEK ARSE')
+    console.log(wap)
+    // find and update cmp
+    let idx = wap.cmps.findIndex(currCmp => currCmp.id === cmp.id)
 
-  let idx = wap.cmps.findIndex(cmp => cmp.id === cmp.id)
-
-  // -1 means the cmp lives inside a wap container
-  if (idx === -1) {
-    // wap-nav is inside header if not stand alone
-    if (cmp.type === 'wap-nav') {
-      const wapHeader = wap.cmps.find(currCmp => currCmp.type === 'wap-header')
-      wapHeader.info.nav = cmp
-    } else {
-      // find the the container
-      const wapContainer = wap.cmps
-        .filter(currCmp => currCmp.type === 'wap-container')
-        .find(currCmp =>
-          currCmp.info.cmps.some(currCmp => currCmp.id === cmp.id)
+    // -1 means the cmp lives inside a wap container
+    if (idx === -1) {
+      // wap-nav is inside header if not stand alone
+      if (cmp.type === 'wap-nav') {
+        const wapHeader = wap.cmps.find(
+          currCmp => currCmp.type === 'wap-header'
         )
-
-      // find the cmp idx
-      const innerIdx = wapContainer.info.cmps.findIndex(
-        cmp => cmp.id === cmp.id
-      )
-
-      // const copy = JSON.parse(JSON.stringify(wapContainer))
-      // idx = cmps.findIndex(cmp => cmp.id === wapContainer.id)
-
-      wapContainer.info.cmps.splice(innerIdx, 1, cmp)
-      wap.cmps.splice(idx, 1, wapContainer)
+        wapHeader.info.nav = cmp
+        idx = wap.cmps.findIndex(cmp => cmp.id === wapHeader.id)
+        cmp = wapHeader
+      } else {
+        // find the the container
+        const wapContainer = wap.cmps
+          .filter(currCmp => currCmp.type === 'wap-container')
+          .find(currCmp =>
+            currCmp.info.cmps.some(currCmp => currCmp.id === cmp.id)
+          )
+        // find the cmp idx
+        const innerIdx = wapContainer.info.cmps.findIndex(
+          cmp => cmp.id === cmp.id
+        )
+        wapContainer.info.cmps.splice(innerIdx, 1, cmp)
+        idx = wap.cmps.findIndex(cmp => cmp.id === wapContainer.id)
+        cmp = wapContainer
+      }
     }
-  } else {
+
+    // Update wap
     wap.cmps.splice(idx, 1, cmp)
+
+    // Update wap in collection
+    let id = ObjectId(wap._id)
+    delete wap._id
+    await collection.updateOne({ _id: id }, { $set: { ...wap } })
+    wap._id = id
+
+    return cmp
+  } catch (err) {
+    logger.error(`cannot update cmp in wap ${wap._id}`, err)
+    throw err
   }
+}
+
+async function removeCmp(wapId, cmpId) {
+  // find wap
+  const collection = await dbService.getCollection('wap')
+  const wap = await collection.findOne({ _id: ObjectId(wapId) })
+
+  // find and remove cmp
+  let idx = wap.cmps.findIndex(cmp => cmp.id === cmpId)
+  wap.cmps.splice(idx, 1)
+
+  // Update wap in collection
+  let id = ObjectId(wap._id)
+  delete wap._id
+  await collection.updateOne({ _id: id }, { $set: { ...wap } })
+  wap._id = id
 }
 
 module.exports = {
@@ -107,6 +141,8 @@ module.exports = {
   getById,
   add,
   update,
+  updateCmp,
+  removeCmp,
 }
 
 function _buildCriteria(

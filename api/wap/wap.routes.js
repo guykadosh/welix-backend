@@ -10,6 +10,8 @@ const {
   addWap,
   updateWap,
   removeWap,
+  updateCmp,
+  removeCmp,
 } = require('./wap.controller')
 const router = express.Router()
 
@@ -17,7 +19,9 @@ const router = express.Router()
 // router.use(requireAuth)
 // requireAuth, requireAdmin,
 router.get('/', log, getWaps)
-router.get('/:id', getWapById)
+router.put('/cmp', log, updateCmp) // wap/cmp
+router.delete('/cmp/:id', removeCmp)
+router.get('/:id', log, getWapById)
 router.post('/', addWap)
 router.put('/:id', updateWap)
 router.delete('/:id', removeWap)

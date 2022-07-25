@@ -7,7 +7,7 @@ async function query() {
   try {
     logger.debug('Getting cmps')
     const collection = await dbService.getCollection('cmp')
-    console.log(collection)
+    // console.log(collection)
     var cmps = await collection.find().toArray()
     return cmps
   } catch (err) {

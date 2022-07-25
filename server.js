@@ -23,6 +23,8 @@ if (process.env.NODE_ENV === 'production') {
       'http://localhost:8080',
       'http://127.0.0.1:3000',
       'http://localhost:3000',
+      'http://127.0.0.1:5173',
+      'http://localhost:5173',
     ],
     credentials: true,
   }
@@ -37,8 +39,8 @@ const { setupSocketAPI } = require('./services/socket.service')
 
 // routes
 // routes
-const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware')
-app.all('*', setupAsyncLocalStorage)
+// const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware')
+// app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)

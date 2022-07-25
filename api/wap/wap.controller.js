@@ -18,6 +18,7 @@ async function getWaps(req, res) {
 async function getWapById(req, res) {
   try {
     const wapId = req.params.id
+    console.log(wapId)
     const wap = await wapService.getById(wapId)
     res.json(wap)
   } catch (err) {
@@ -66,20 +67,34 @@ async function removeWap(req, res) {
 async function updateCmp(req, res) {
   try {
     let { cmp, wapId } = req.body
-    cmp = JSON.parse(cmp)
-
+    // console.log(req.body)
+    // cmp = JSON.parse(cmp)
+    // console.log(cmp, wapId)
     const updatedCmp = await wapService.updateCmp(wapId, cmp)
     res.json(updatedCmp)
   } catch (err) {
     logger.error('Failed to update cmp', err)
-    res.status(500).send({ err: 'Failed to updare cmp' })
+    res.status(500).send({ err: 'Failed to update cmp' })
   }
 }
 
+// Remove cmp inside wap
+async function removeCmp(req, res) {
+  try {
+    const wapId = req.params.id
+    const { cmpId } = req.body
+    await wapService.removeCmp(wapId, cmpId)
+  } catch (err) {
+    logger.error('Failed to remove cmp', err)
+    res.status(500).send({ err: 'Failed to remove cmp' })
+  }
+}
 module.exports = {
   getWaps,
   getWapById,
   addWap,
   updateWap,
   removeWap,
+  updateCmp,
+  removeCmp,
 }
