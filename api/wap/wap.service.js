@@ -4,10 +4,11 @@ const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
   try {
+    console.log('fitlerBy', filterBy)
     const criteria = _buildCriteria(filterBy)
-
+    console.log(criteria)
     const collection = await dbService.getCollection('wap')
-    var waps = await collection.find().toArray()
+    var waps = await collection.find(criteria).toArray()
     return waps
   } catch (err) {
     logger.error('cannot find waps', err)
@@ -152,12 +153,12 @@ function _buildCriteria(
 
   const criteria = {}
 
-  if (isPublic !== null) {
+  if (isPublic !== undefined) {
     criteria.isPublic = true
   }
 
-  if (isTemplate !== null) {
-    criteria.isPublic = true
+  if (isTemplate !== undefined) {
+    criteria.isTemplate = true
   }
 
   if (userId) {

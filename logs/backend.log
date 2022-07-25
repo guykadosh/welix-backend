@@ -791,6 +791,7 @@
 7/25/2022, 2:33:37 PM - DEBUG - Getting cmps
 7/25/2022, 2:33:38 PM - INFO - Sample Logger Middleware
 7/25/2022, 2:33:38 PM - DEBUG - Getting Waps
+<<<<<<< HEAD
 7/25/2022, 2:37:03 PM - INFO - Server is running on port: 3030
 7/25/2022, 2:37:10 PM - INFO - Sample Logger Middleware
 7/25/2022, 2:37:10 PM - DEBUG - Getting Waps
@@ -934,3 +935,279 @@
 7/25/2022, 7:39:02 PM - DEBUG - Getting cmps
 7/25/2022, 7:39:02 PM - INFO - Sample Logger Middleware
 7/25/2022, 7:39:02 PM - DEBUG - Getting Waps
+=======
+7/25/2022, 2:41:21 PM - INFO - Server is running on port: 3030
+7/25/2022, 2:41:23 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:41:23 PM - DEBUG - Getting Waps
+7/25/2022, 2:41:24 PM - DEBUG - Getting Cmp
+7/25/2022, 2:41:24 PM - DEBUG - Getting cmps
+7/25/2022, 2:41:31 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:41:31 PM - DEBUG - Getting Waps
+7/25/2022, 2:41:31 PM - DEBUG - Getting Cmp
+7/25/2022, 2:41:31 PM - DEBUG - Getting cmps
+7/25/2022, 2:42:33 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:43:48 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:43:48 PM - DEBUG - Getting Waps
+7/25/2022, 2:43:48 PM - DEBUG - Getting Cmp
+7/25/2022, 2:43:48 PM - DEBUG - Getting cmps
+7/25/2022, 2:52:07 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:52:12 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:52:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:52:27 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:52:53 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:52:53 PM - DEBUG - Getting Waps
+7/25/2022, 2:52:53 PM - DEBUG - Getting Cmp
+7/25/2022, 2:52:53 PM - DEBUG - Getting cmps
+7/25/2022, 2:55:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:55:19 PM - DEBUG - Getting Waps
+7/25/2022, 2:55:19 PM - DEBUG - Getting Cmp
+7/25/2022, 2:55:19 PM - DEBUG - Getting cmps
+7/25/2022, 2:55:37 PM - DEBUG - Getting Cmp
+7/25/2022, 2:55:37 PM - DEBUG - Getting cmps
+7/25/2022, 2:55:37 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:55:37 PM - DEBUG - Getting Waps
+7/25/2022, 2:55:42 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:55:42 PM - DEBUG - Getting Waps
+7/25/2022, 2:55:42 PM - DEBUG - Getting Cmp
+7/25/2022, 2:55:42 PM - DEBUG - Getting cmps
+7/25/2022, 2:56:10 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:56:10 PM - DEBUG - Getting Waps
+7/25/2022, 2:56:10 PM - DEBUG - Getting Cmp
+7/25/2022, 2:56:10 PM - DEBUG - Getting cmps
+7/25/2022, 2:57:25 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:57:25 PM - DEBUG - Getting Waps
+7/25/2022, 2:57:25 PM - DEBUG - Getting Cmp
+7/25/2022, 2:57:25 PM - DEBUG - Getting cmps
+7/25/2022, 2:58:32 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:58:32 PM - DEBUG - Getting Waps
+7/25/2022, 2:58:32 PM - DEBUG - Getting Cmp
+7/25/2022, 2:58:32 PM - DEBUG - Getting cmps
+7/25/2022, 2:58:38 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:58:48 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:58:48 PM - DEBUG - Getting Waps
+7/25/2022, 2:58:48 PM - DEBUG - Getting Cmp
+7/25/2022, 2:58:48 PM - DEBUG - Getting cmps
+7/25/2022, 2:59:06 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:59:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:00:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:00:48 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:02:14 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:02:15 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:02:15 PM - DEBUG - Getting Waps
+7/25/2022, 3:02:15 PM - DEBUG - Getting Cmp
+7/25/2022, 3:02:15 PM - DEBUG - Getting cmps
+7/25/2022, 3:02:15 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:04:06 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:04:06 PM - DEBUG - Getting Waps
+7/25/2022, 3:04:06 PM - DEBUG - Getting Cmp
+7/25/2022, 3:04:06 PM - DEBUG - Getting cmps
+7/25/2022, 3:04:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:05:07 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:05:07 PM - DEBUG - Getting Waps
+7/25/2022, 3:05:07 PM - DEBUG - Getting Cmp
+7/25/2022, 3:05:07 PM - DEBUG - Getting cmps
+7/25/2022, 3:05:10 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:05:10 PM - DEBUG - Getting Waps
+7/25/2022, 3:05:10 PM - DEBUG - Getting Cmp
+7/25/2022, 3:05:10 PM - DEBUG - Getting cmps
+7/25/2022, 3:05:12 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:13:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:13:30 PM - DEBUG - Getting Waps
+7/25/2022, 3:13:30 PM - DEBUG - Getting Cmp
+7/25/2022, 3:13:30 PM - DEBUG - Getting cmps
+7/25/2022, 3:13:34 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:13:45 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:16:47 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:16:47 PM - DEBUG - Getting Waps
+7/25/2022, 3:16:47 PM - DEBUG - Getting Cmp
+7/25/2022, 3:16:47 PM - DEBUG - Getting cmps
+7/25/2022, 3:21:03 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:21:03 PM - DEBUG - Getting Waps
+7/25/2022, 3:21:03 PM - DEBUG - Getting Cmp
+7/25/2022, 3:21:03 PM - DEBUG - Getting cmps
+7/25/2022, 3:21:15 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:26:22 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:26:22 PM - DEBUG - Getting Waps
+7/25/2022, 3:26:22 PM - DEBUG - Getting Cmp
+7/25/2022, 3:26:22 PM - DEBUG - Getting cmps
+7/25/2022, 3:26:22 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:26:47 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:26:47 PM - DEBUG - Getting Waps
+7/25/2022, 3:26:47 PM - DEBUG - Getting Cmp
+7/25/2022, 3:26:47 PM - DEBUG - Getting cmps
+7/25/2022, 3:26:47 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:27:08 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:27:08 PM - DEBUG - Getting Waps
+7/25/2022, 3:27:08 PM - DEBUG - Getting Cmp
+7/25/2022, 3:27:08 PM - DEBUG - Getting cmps
+7/25/2022, 3:27:08 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:34:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:34:50 PM - DEBUG - Getting Waps
+7/25/2022, 3:34:50 PM - DEBUG - Getting Cmp
+7/25/2022, 3:34:50 PM - DEBUG - Getting cmps
+7/25/2022, 3:34:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:35:11 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:35:11 PM - DEBUG - Getting Waps
+7/25/2022, 3:35:11 PM - DEBUG - Getting Cmp
+7/25/2022, 3:35:11 PM - DEBUG - Getting cmps
+7/25/2022, 3:35:11 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:35:38 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:35:38 PM - DEBUG - Getting Waps
+7/25/2022, 3:35:38 PM - DEBUG - Getting Cmp
+7/25/2022, 3:35:38 PM - DEBUG - Getting cmps
+7/25/2022, 3:35:51 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:51 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:52 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:52 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:55 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:55 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:55 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:55 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:56 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:56 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:56 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:57 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:57 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:57 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:57 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:57 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:57 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:58 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:58 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:58 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:58 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:58 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:58 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:58 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:58 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:59 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:59 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:59 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:59 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:59 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:59 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:59 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:35:59 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:35:59 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:38:47 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:38:47 PM - DEBUG - Getting Waps
+7/25/2022, 3:38:47 PM - DEBUG - Getting Cmp
+7/25/2022, 3:38:47 PM - DEBUG - Getting cmps
+7/25/2022, 3:40:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:40:29 PM - DEBUG - Getting Waps
+7/25/2022, 3:40:29 PM - DEBUG - Getting Cmp
+7/25/2022, 3:40:29 PM - DEBUG - Getting cmps
+7/25/2022, 3:40:32 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:40:32 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:42:23 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:42:23 PM - DEBUG - Getting Waps
+7/25/2022, 3:42:23 PM - DEBUG - Getting Cmp
+7/25/2022, 3:42:23 PM - DEBUG - Getting cmps
+7/25/2022, 3:42:27 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:42:27 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:46:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:46:19 PM - DEBUG - Getting Waps
+7/25/2022, 3:46:19 PM - DEBUG - Getting Cmp
+7/25/2022, 3:46:19 PM - DEBUG - Getting cmps
+7/25/2022, 3:46:23 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 3:46:23 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 3:46:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 3:46:55 PM - ERROR - cannot remove wap undefined | {}
+7/25/2022, 3:46:55 PM - ERROR - Failed to remove wap | {}
+7/25/2022, 4:17:49 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:17:49 PM - DEBUG - Getting Waps
+7/25/2022, 4:17:49 PM - DEBUG - Getting Cmp
+7/25/2022, 4:17:49 PM - DEBUG - Getting cmps
+7/25/2022, 4:19:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:19:39 PM - DEBUG - Getting Waps
+7/25/2022, 4:19:39 PM - DEBUG - Getting Cmp
+7/25/2022, 4:19:39 PM - DEBUG - Getting cmps
+7/25/2022, 4:21:33 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:21:33 PM - DEBUG - Getting Waps
+7/25/2022, 4:21:33 PM - DEBUG - Getting Cmp
+7/25/2022, 4:21:33 PM - DEBUG - Getting cmps
+7/25/2022, 4:22:20 PM - INFO - Server is running on port: 3030
+7/25/2022, 4:22:25 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:22:25 PM - DEBUG - Getting Waps
+7/25/2022, 4:22:25 PM - DEBUG - Getting Cmp
+7/25/2022, 4:22:25 PM - DEBUG - Getting cmps
+7/25/2022, 4:23:17 PM - INFO - Server is running on port: 3030
+7/25/2022, 4:23:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:23:17 PM - DEBUG - Getting Waps
+7/25/2022, 4:23:17 PM - DEBUG - Getting Cmp
+7/25/2022, 4:23:17 PM - DEBUG - Getting cmps
+7/25/2022, 4:23:54 PM - INFO - Server is running on port: 3030
+7/25/2022, 4:23:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:23:58 PM - DEBUG - Getting Waps
+7/25/2022, 4:23:58 PM - DEBUG - Getting Cmp
+7/25/2022, 4:23:58 PM - DEBUG - Getting cmps
+7/25/2022, 4:24:22 PM - INFO - Server is running on port: 3030
+7/25/2022, 4:24:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:24:29 PM - DEBUG - Getting Waps
+7/25/2022, 4:24:29 PM - DEBUG - Getting Cmp
+7/25/2022, 4:24:29 PM - DEBUG - Getting cmps
+7/25/2022, 4:25:27 PM - INFO - Server is running on port: 3030
+7/25/2022, 4:25:28 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:25:28 PM - DEBUG - Getting Waps
+7/25/2022, 4:25:28 PM - DEBUG - Getting Cmp
+7/25/2022, 4:25:28 PM - DEBUG - Getting cmps
+7/25/2022, 4:25:30 PM - ERROR - cannot remove wap undefined | {}
+7/25/2022, 4:25:30 PM - ERROR - Failed to remove wap | {}
+7/25/2022, 4:25:35 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:25:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:25:39 PM - DEBUG - Getting Waps
+7/25/2022, 4:25:39 PM - DEBUG - Getting Cmp
+7/25/2022, 4:25:39 PM - DEBUG - Getting cmps
+7/25/2022, 4:26:16 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:26:16 PM - DEBUG - Getting Waps
+7/25/2022, 4:26:16 PM - DEBUG - Getting Cmp
+7/25/2022, 4:26:16 PM - DEBUG - Getting cmps
+7/25/2022, 4:26:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:26:21 PM - DEBUG - Getting Waps
+7/25/2022, 4:26:21 PM - DEBUG - Getting Cmp
+7/25/2022, 4:26:21 PM - DEBUG - Getting cmps
+7/25/2022, 4:40:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:40:09 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 4:40:09 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 4:40:10 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:41:23 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:41:23 PM - DEBUG - Getting Waps
+7/25/2022, 4:42:37 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:42:37 PM - DEBUG - Getting Waps
+7/25/2022, 4:42:38 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:42:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:42:39 PM - DEBUG - Getting Waps
+7/25/2022, 4:42:39 PM - DEBUG - Getting Cmp
+7/25/2022, 4:42:39 PM - DEBUG - Getting cmps
+7/25/2022, 4:42:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:42:43 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:43:06 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 4:43:06 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 4:43:08 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:43:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:43:29 PM - DEBUG - Getting Waps
+7/25/2022, 4:48:28 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:48:29 PM - DEBUG - Getting Cmp
+7/25/2022, 4:48:29 PM - DEBUG - Getting cmps
+7/25/2022, 4:48:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:48:29 PM - DEBUG - Getting Waps
+7/25/2022, 4:48:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:49:20 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:49:23 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:49:23 PM - DEBUG - Getting Waps
+7/25/2022, 4:49:23 PM - DEBUG - Getting Cmp
+7/25/2022, 4:49:23 PM - DEBUG - Getting cmps
+7/25/2022, 4:49:25 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:49:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:49:52 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:49:52 PM - DEBUG - Getting Waps
+7/25/2022, 4:49:52 PM - DEBUG - Getting Cmp
+7/25/2022, 4:49:52 PM - DEBUG - Getting cmps
+7/25/2022, 4:49:55 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:50:12 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 4:50:12 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 4:50:14 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:51:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:51:19 PM - DEBUG - Getting Waps
+7/25/2022, 4:54:49 PM - INFO - Sample Logger Middleware
+>>>>>>> 04ed37714863329b704740573d8db2658a2d6366
