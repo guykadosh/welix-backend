@@ -181,6 +181,10 @@
 24.7.2022, 20:41:30 - ERROR - cannot find cmps | {}
 24.7.2022, 20:41:30 - ERROR - Failed to get Cmpsssss | {}
 24.7.2022, 20:47:02 - INFO - Server is running on port: 3030
+<<<<<<< HEAD
+24.7.2022, 22:01:39 - INFO - Server is running on port: 3030
+24.7.2022, 22:01:43 - INFO - Server is running on port: 3030
+=======
 7/24/2022, 9:19:00 PM - INFO - Server is running on port: 3030
 7/24/2022, 9:19:19 PM - INFO - Server is running on port: 3030
 7/24/2022, 9:19:25 PM - INFO - Server is running on port: 3030
@@ -317,6 +321,7 @@
 7/24/2022, 9:59:25 PM - DEBUG - Getting cmps
 7/24/2022, 9:59:31 PM - INFO - Sample Logger Middleware
 7/24/2022, 9:59:31 PM - DEBUG - Getting Waps
+<<<<<<< HEAD
 7/24/2022, 11:01:24 PM - INFO - Server is running on port: 3030
 7/24/2022, 11:08:13 PM - INFO - Server is running on port: 3030
 7/24/2022, 11:08:30 PM - INFO - Server is running on port: 3030
@@ -772,3 +777,7 @@
 7/25/2022, 2:23:04 PM - INFO - Sample Logger Middleware
 7/25/2022, 2:24:29 PM - INFO - Sample Logger Middleware
 7/25/2022, 2:24:29 PM - INFO - Sample Logger Middleware
+=======
+>>>>>>> 13364fb042b693d7460a54901f048107b05ddfbe
+24.7.2022, 22:03:03 - INFO - Server is running on port: 3030
+>>>>>>> 43bf7f904472bd8ab563c153f700eaa3fc8c0c07
