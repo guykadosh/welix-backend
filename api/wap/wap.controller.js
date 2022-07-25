@@ -5,6 +5,7 @@ const logger = require('../../services/logger.service')
 async function getWaps(req, res) {
   try {
     logger.debug('Getting Waps')
+    console.log('req.query', req.query)
     var queryParams = req.query
     const waps = await wapService.query(queryParams)
     res.json(waps)
