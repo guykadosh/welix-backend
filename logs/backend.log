@@ -781,3 +781,13 @@
 >>>>>>> 13364fb042b693d7460a54901f048107b05ddfbe
 24.7.2022, 22:03:03 - INFO - Server is running on port: 3030
 >>>>>>> 43bf7f904472bd8ab563c153f700eaa3fc8c0c07
+7/25/2022, 2:33:37 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:33:37 PM - DEBUG - Getting Waps
+7/25/2022, 2:33:37 PM - DEBUG - Getting Cmp
+7/25/2022, 2:33:37 PM - DEBUG - Getting cmps
+7/25/2022, 2:33:37 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:33:37 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:33:37 PM - DEBUG - Getting Cmp
+7/25/2022, 2:33:37 PM - DEBUG - Getting cmps
+7/25/2022, 2:33:38 PM - INFO - Sample Logger Middleware
+7/25/2022, 2:33:38 PM - DEBUG - Getting Waps
