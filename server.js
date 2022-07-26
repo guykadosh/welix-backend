@@ -13,7 +13,7 @@ app.use(express.json())
 
 if (process.env.NODE_ENV === 'production') {
   // Express serve static files on production environment
-  // app.use(express.static(path.resolve(__dirname, 'public')))
+  app.use(express.static(path.resolve(__dirname, 'public')))
 } else {
   // Configuring CORS
   const corsOptions = {
@@ -25,6 +25,8 @@ if (process.env.NODE_ENV === 'production') {
       'http://localhost:3000',
       'http://127.0.0.1:5173',
       'http://localhost:5173',
+      'http://127.0.0.1:5174',
+      'http://localhost:5174',
     ],
     credentials: true,
   }

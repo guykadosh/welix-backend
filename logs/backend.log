@@ -1210,6 +1210,7 @@
 7/25/2022, 4:51:19 PM - INFO - Sample Logger Middleware
 7/25/2022, 4:51:19 PM - DEBUG - Getting Waps
 7/25/2022, 4:54:49 PM - INFO - Sample Logger Middleware
+<<<<<<< HEAD
 
 7/25/2022, 7:41:22 PM - INFO - Server is running on port: 3030
 7/25/2022, 7:41:25 PM - DEBUG - Getting Cmp
@@ -2078,3 +2079,2370 @@
 7/26/2022, 9:45:02 PM - INFO - Server is running on port: 3030
 7/26/2022, 9:45:59 PM - INFO - Server is running on port: 3030
 7/26/2022, 10:05:58 PM - INFO - Server is running on port: 3030
+=======
+7/25/2022, 4:55:44 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:55:44 PM - DEBUG - Getting Waps
+7/25/2022, 4:55:45 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:55:45 PM - DEBUG - Getting Waps
+7/25/2022, 4:55:45 PM - DEBUG - Getting Cmp
+7/25/2022, 4:55:45 PM - DEBUG - Getting cmps
+7/25/2022, 4:55:47 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:55:47 PM - DEBUG - Getting Waps
+7/25/2022, 4:55:47 PM - DEBUG - Getting Cmp
+7/25/2022, 4:55:47 PM - DEBUG - Getting cmps
+7/25/2022, 4:55:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:59:02 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:59:24 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:59:32 PM - INFO - Sample Logger Middleware
+7/25/2022, 4:59:42 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:00:01 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:00:01 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:00:03 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:00:14 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:00:14 PM - DEBUG - Getting Waps
+7/25/2022, 5:00:45 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:00:46 PM - DEBUG - Getting Cmp
+7/25/2022, 5:00:46 PM - DEBUG - Getting cmps
+7/25/2022, 5:00:46 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:00:46 PM - DEBUG - Getting Waps
+7/25/2022, 5:00:46 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:00:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:00:50 PM - DEBUG - Getting Waps
+7/25/2022, 5:00:50 PM - DEBUG - Getting Cmp
+7/25/2022, 5:00:50 PM - DEBUG - Getting cmps
+7/25/2022, 5:00:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:01:09 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:01:09 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:01:12 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:01:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:01:21 PM - DEBUG - Getting Waps
+7/25/2022, 5:02:16 PM - DEBUG - Getting Cmp
+7/25/2022, 5:02:16 PM - DEBUG - Getting cmps
+7/25/2022, 5:02:16 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:02:16 PM - DEBUG - Getting Waps
+7/25/2022, 5:02:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:02:19 PM - DEBUG - Getting Waps
+7/25/2022, 5:02:19 PM - DEBUG - Getting Cmp
+7/25/2022, 5:02:19 PM - DEBUG - Getting cmps
+7/25/2022, 5:02:24 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:02:38 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:02:38 PM - DEBUG - Updating Cmp, service
+7/25/2022, 5:02:53 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:02:53 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:02:55 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:03:10 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:03:10 PM - DEBUG - Getting Waps
+7/25/2022, 5:05:09 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:05:13 PM - DEBUG - Getting Cmp
+7/25/2022, 5:05:13 PM - DEBUG - Getting cmps
+7/25/2022, 5:05:13 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:05:13 PM - DEBUG - Getting Waps
+7/25/2022, 5:05:14 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:05:28 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:05:28 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:05:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:06:07 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:06:07 PM - DEBUG - Getting Waps
+7/25/2022, 5:07:54 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:08:02 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:08:45 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:08:45 PM - DEBUG - Getting Waps
+7/25/2022, 5:10:34 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:10:34 PM - DEBUG - Getting Waps
+7/25/2022, 5:10:35 PM - DEBUG - Getting Cmp
+7/25/2022, 5:10:35 PM - DEBUG - Getting cmps
+7/25/2022, 5:10:35 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:10:35 PM - DEBUG - Getting Waps
+7/25/2022, 5:10:41 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:10:41 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:10:43 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:10:55 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:10:55 PM - DEBUG - Getting Waps
+7/25/2022, 5:11:58 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:12:00 PM - DEBUG - Getting Cmp
+7/25/2022, 5:12:00 PM - DEBUG - Getting cmps
+7/25/2022, 5:12:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:12:00 PM - DEBUG - Getting Waps
+7/25/2022, 5:12:05 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:12:05 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:12:07 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:12:07 PM - DEBUG - Getting Waps
+7/25/2022, 5:13:38 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:13:49 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:13:49 PM - DEBUG - Getting Waps
+7/25/2022, 5:13:49 PM - ERROR - cannot find waps | {}
+7/25/2022, 5:13:49 PM - ERROR - Failed to get waps | {}
+7/25/2022, 5:13:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:13:51 PM - DEBUG - Getting Waps
+7/25/2022, 5:13:51 PM - ERROR - cannot find waps | {}
+7/25/2022, 5:13:51 PM - ERROR - Failed to get waps | {}
+7/25/2022, 5:14:17 PM - DEBUG - Getting Cmp
+7/25/2022, 5:14:17 PM - DEBUG - Getting cmps
+7/25/2022, 5:14:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:14:17 PM - DEBUG - Getting Waps
+7/25/2022, 5:14:23 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:14:23 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:14:26 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:14:26 PM - DEBUG - Getting Waps
+7/25/2022, 5:14:26 PM - ERROR - cannot find waps | {}
+7/25/2022, 5:14:26 PM - ERROR - Failed to get waps | {}
+7/25/2022, 5:15:02 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:15:05 PM - DEBUG - Getting Cmp
+7/25/2022, 5:15:05 PM - DEBUG - Getting cmps
+7/25/2022, 5:15:05 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:15:05 PM - DEBUG - Getting Waps
+7/25/2022, 5:15:09 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:15:09 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:15:11 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:15:11 PM - DEBUG - Getting Waps
+7/25/2022, 5:21:01 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:21:08 PM - DEBUG - Getting Cmp
+7/25/2022, 5:21:08 PM - DEBUG - Getting cmps
+7/25/2022, 5:21:08 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:21:08 PM - DEBUG - Getting Waps
+7/25/2022, 5:21:12 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:21:12 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:21:14 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:21:14 PM - DEBUG - Getting Waps
+7/25/2022, 5:22:48 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:23:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:23:19 PM - DEBUG - Getting Waps
+7/25/2022, 5:23:53 PM - DEBUG - Getting Cmp
+7/25/2022, 5:23:53 PM - DEBUG - Getting cmps
+7/25/2022, 5:23:53 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:23:53 PM - DEBUG - Getting Waps
+7/25/2022, 5:23:57 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:23:57 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:23:59 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:23:59 PM - DEBUG - Getting Waps
+7/25/2022, 5:27:56 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:28:13 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:28:35 PM - DEBUG - Getting Cmp
+7/25/2022, 5:28:35 PM - DEBUG - Getting cmps
+7/25/2022, 5:28:35 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:28:35 PM - DEBUG - Getting Waps
+7/25/2022, 5:29:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:29:29 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:29:30 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:29:32 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:29:45 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:29:45 PM - DEBUG - Getting Waps
+7/25/2022, 5:33:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:33:30 PM - DEBUG - Getting Cmp
+7/25/2022, 5:33:30 PM - DEBUG - Getting cmps
+7/25/2022, 5:33:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:33:30 PM - DEBUG - Getting Waps
+7/25/2022, 5:33:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:37:02 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:37:20 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:37:21 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:37:21 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:37:22 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:37:24 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:37:24 PM - DEBUG - Getting Waps
+7/25/2022, 5:44:05 PM - DEBUG - Getting Cmp
+7/25/2022, 5:44:05 PM - DEBUG - Getting cmps
+7/25/2022, 5:44:05 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:44:05 PM - DEBUG - Getting Waps
+7/25/2022, 5:44:08 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:44:08 PM - DEBUG - Getting Waps
+7/25/2022, 5:44:08 PM - DEBUG - Getting Cmp
+7/25/2022, 5:44:08 PM - DEBUG - Getting cmps
+7/25/2022, 5:44:14 PM - DEBUG - Getting Cmp
+7/25/2022, 5:44:14 PM - DEBUG - Getting cmps
+7/25/2022, 5:44:14 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:44:14 PM - DEBUG - Getting Waps
+7/25/2022, 5:50:35 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:50:37 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:51:57 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:52:37 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:52:41 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:53:08 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:53:23 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:53:33 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:53:34 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:53:36 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:53:36 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:53:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:53:40 PM - DEBUG - Getting Waps
+7/25/2022, 5:53:46 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:53:46 PM - DEBUG - Getting Waps
+7/25/2022, 5:53:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:53:51 PM - DEBUG - Getting Waps
+7/25/2022, 5:54:08 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:54:35 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:54:35 PM - DEBUG - Getting Waps
+7/25/2022, 5:54:52 PM - INFO - Server is running on port: 3030
+7/25/2022, 5:54:53 PM - DEBUG - Getting Cmp
+7/25/2022, 5:54:53 PM - DEBUG - Getting cmps
+7/25/2022, 5:54:53 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:54:53 PM - DEBUG - Getting Waps
+7/25/2022, 5:54:58 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 5:54:58 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 5:55:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:55:00 PM - DEBUG - Getting Waps
+7/25/2022, 5:55:50 PM - DEBUG - Getting Cmp
+7/25/2022, 5:55:50 PM - DEBUG - Getting cmps
+7/25/2022, 5:55:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:55:50 PM - DEBUG - Getting Waps
+7/25/2022, 5:55:52 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:58:08 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:58:08 PM - DEBUG - Updating Cmp, service
+7/25/2022, 5:58:09 PM - INFO - Sample Logger Middleware
+7/25/2022, 5:58:09 PM - DEBUG - Updating Cmp, service
+7/25/2022, 6:03:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:03:19 PM - DEBUG - Getting Waps
+7/25/2022, 6:03:19 PM - DEBUG - Getting Cmp
+7/25/2022, 6:03:19 PM - DEBUG - Getting cmps
+7/25/2022, 6:05:02 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:05:10 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 6:05:10 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 6:05:12 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:05:12 PM - DEBUG - Getting Waps
+7/25/2022, 6:05:22 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:05:22 PM - DEBUG - Getting Waps
+7/25/2022, 6:05:31 PM - DEBUG - Getting Cmp
+7/25/2022, 6:05:31 PM - DEBUG - Getting cmps
+7/25/2022, 6:05:31 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:05:31 PM - DEBUG - Getting Waps
+7/25/2022, 6:12:06 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:13:03 PM - DEBUG - Getting Cmp
+7/25/2022, 6:13:03 PM - DEBUG - Getting cmps
+7/25/2022, 6:13:03 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:13:03 PM - DEBUG - Getting Waps
+7/25/2022, 6:13:29 PM - DEBUG - Getting Cmp
+7/25/2022, 6:13:29 PM - DEBUG - Getting cmps
+7/25/2022, 6:13:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:13:29 PM - DEBUG - Getting Waps
+7/25/2022, 6:13:49 PM - DEBUG - Getting Cmp
+7/25/2022, 6:13:49 PM - DEBUG - Getting cmps
+7/25/2022, 6:13:49 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:13:49 PM - DEBUG - Getting Waps
+7/25/2022, 6:15:40 PM - DEBUG - Getting Cmp
+7/25/2022, 6:15:40 PM - DEBUG - Getting cmps
+7/25/2022, 6:15:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:15:40 PM - DEBUG - Getting Waps
+7/25/2022, 6:16:25 PM - DEBUG - Getting Cmp
+7/25/2022, 6:16:25 PM - DEBUG - Getting cmps
+7/25/2022, 6:16:25 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:16:25 PM - DEBUG - Getting Waps
+7/25/2022, 6:22:05 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:22:53 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:22:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:22:58 PM - DEBUG - Getting Waps
+7/25/2022, 6:22:58 PM - DEBUG - Getting Cmp
+7/25/2022, 6:22:58 PM - DEBUG - Getting cmps
+7/25/2022, 6:22:59 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:23:41 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:23:43 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:23:43 PM - DEBUG - Getting Waps
+7/25/2022, 6:23:43 PM - DEBUG - Getting Cmp
+7/25/2022, 6:23:43 PM - DEBUG - Getting cmps
+7/25/2022, 6:23:44 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:24:45 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:24:47 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:24:56 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:40:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 6:40:39 PM - DEBUG - Getting Waps
+7/25/2022, 6:40:39 PM - DEBUG - Getting Cmp
+7/25/2022, 6:40:39 PM - DEBUG - Getting cmps
+7/25/2022, 6:40:41 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:05:43 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:14:27 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:14:27 PM - DEBUG - Getting Waps
+7/25/2022, 7:14:27 PM - DEBUG - Getting Cmp
+7/25/2022, 7:14:27 PM - DEBUG - Getting cmps
+7/25/2022, 7:14:28 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:14:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:14:29 PM - DEBUG - Getting Waps
+7/25/2022, 7:14:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:14:29 PM - DEBUG - Getting Cmp
+7/25/2022, 7:14:29 PM - DEBUG - Getting cmps
+7/25/2022, 7:15:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:15:26 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:15:26 PM - ERROR - while finding wap 5e28393890dgggggg34ghhhh4 | {}
+7/25/2022, 7:15:26 PM - ERROR - Failed to get wap | {}
+7/25/2022, 7:15:28 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:15:28 PM - DEBUG - Getting Waps
+7/25/2022, 7:15:28 PM - DEBUG - Getting Cmp
+7/25/2022, 7:15:28 PM - DEBUG - Getting cmps
+7/25/2022, 7:15:53 PM - DEBUG - Getting Cmp
+7/25/2022, 7:15:53 PM - DEBUG - Getting cmps
+7/25/2022, 7:15:53 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:15:53 PM - DEBUG - Getting Waps
+7/25/2022, 7:16:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:16:01 PM - DEBUG - Getting Waps
+7/25/2022, 7:16:01 PM - DEBUG - Getting Cmp
+7/25/2022, 7:16:01 PM - DEBUG - Getting cmps
+7/25/2022, 7:20:09 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:22:17 PM - DEBUG - Getting Cmp
+7/25/2022, 7:22:17 PM - DEBUG - Getting cmps
+7/25/2022, 7:22:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:22:17 PM - DEBUG - Getting Waps
+7/25/2022, 7:22:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:23:43 PM - DEBUG - Getting Cmp
+7/25/2022, 7:23:43 PM - DEBUG - Getting cmps
+7/25/2022, 7:23:43 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:23:43 PM - DEBUG - Getting Waps
+7/25/2022, 7:23:45 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:39:32 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:39:32 PM - DEBUG - Getting Waps
+7/25/2022, 7:39:32 PM - DEBUG - Getting Cmp
+7/25/2022, 7:39:32 PM - DEBUG - Getting cmps
+7/25/2022, 7:39:32 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:39:42 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:43:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:09 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:51 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:51 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:51 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:51 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:51 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:51 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:51 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:52 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:52 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:52 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:52 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:52 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:52 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:52 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:52 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:48:52 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:48:52 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:49:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:54:55 PM - DEBUG - Getting Cmp
+7/25/2022, 7:54:55 PM - DEBUG - Getting cmps
+7/25/2022, 7:54:55 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:54:55 PM - DEBUG - Getting Waps
+7/25/2022, 7:54:55 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:39 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:40 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:40 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:40 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:40 PM - DEBUG - Updating Cmp, service
+7/25/2022, 7:55:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 7:55:40 PM - DEBUG - Updating Cmp, service
+7/25/2022, 8:03:24 PM - DEBUG - Getting Cmp
+7/25/2022, 8:03:24 PM - DEBUG - Getting cmps
+7/25/2022, 8:03:24 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:03:24 PM - DEBUG - Getting Waps
+7/25/2022, 8:03:26 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:56:11 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:56:49 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:56:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:56:50 PM - DEBUG - Getting Waps
+7/25/2022, 8:56:50 PM - DEBUG - Getting Cmp
+7/25/2022, 8:56:50 PM - DEBUG - Getting cmps
+7/25/2022, 8:56:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:56:54 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:56:54 PM - DEBUG - Getting Waps
+7/25/2022, 8:56:54 PM - DEBUG - Getting Cmp
+7/25/2022, 8:56:54 PM - DEBUG - Getting cmps
+7/25/2022, 8:56:55 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:58:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:58:19 PM - DEBUG - Getting Waps
+7/25/2022, 8:58:19 PM - DEBUG - Getting Cmp
+7/25/2022, 8:58:19 PM - DEBUG - Getting cmps
+7/25/2022, 8:58:20 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:59:29 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:59:29 PM - DEBUG - Getting Waps
+7/25/2022, 8:59:29 PM - DEBUG - Getting Cmp
+7/25/2022, 8:59:29 PM - DEBUG - Getting cmps
+7/25/2022, 8:59:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 8:59:35 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 8:59:35 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:06:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:06:39 PM - DEBUG - Getting Waps
+7/25/2022, 9:06:39 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:06:39 PM - DEBUG - Getting Cmp
+7/25/2022, 9:06:39 PM - DEBUG - Getting cmps
+7/25/2022, 9:07:15 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:07:31 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:07:31 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:12:57 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:12:58 PM - DEBUG - Getting Cmp
+7/25/2022, 9:12:58 PM - DEBUG - Getting cmps
+7/25/2022, 9:12:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:12:58 PM - DEBUG - Getting Waps
+7/25/2022, 9:12:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:13:44 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:13:48 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:14:12 PM - DEBUG - auth.service - signup with username: [object Object], fullname: undefined
+7/25/2022, 9:14:12 PM - ERROR - Failed to signup fullname, username and password are required!
+7/25/2022, 9:14:36 PM - DEBUG - auth.service - signup with username: [object Object], fullname: undefined
+7/25/2022, 9:14:36 PM - ERROR - Failed to signup fullname, username and password are required!
+7/25/2022, 9:14:53 PM - DEBUG - auth.service - signup with username: [object Object], fullname: undefined
+7/25/2022, 9:14:53 PM - ERROR - Failed to signup fullname, username and password are required!
+7/25/2022, 9:14:58 PM - DEBUG - auth.service - login with username: kiki
+7/25/2022, 9:14:59 PM - ERROR - Failed to Login Error: Invalid username or password
+7/25/2022, 9:19:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:19:27 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:19:27 PM - DEBUG - Getting Waps
+7/25/2022, 9:19:27 PM - DEBUG - Getting Cmp
+7/25/2022, 9:19:27 PM - DEBUG - Getting cmps
+7/25/2022, 9:19:28 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:19:40 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:19:40 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:20:10 PM - DEBUG - Getting Cmp
+7/25/2022, 9:20:10 PM - DEBUG - Getting cmps
+7/25/2022, 9:20:10 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:20:10 PM - DEBUG - Getting Waps
+7/25/2022, 9:20:15 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:20:15 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:22:11 PM - DEBUG - Getting Cmp
+7/25/2022, 9:22:11 PM - DEBUG - Getting cmps
+7/25/2022, 9:22:11 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:22:11 PM - DEBUG - Getting Waps
+7/25/2022, 9:22:14 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:22:14 PM - DEBUG - Getting Waps
+7/25/2022, 9:22:14 PM - DEBUG - Getting Cmp
+7/25/2022, 9:22:14 PM - DEBUG - Getting cmps
+7/25/2022, 9:22:18 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:22:18 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:22:36 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:22:36 PM - DEBUG - Getting Waps
+7/25/2022, 9:22:36 PM - DEBUG - Getting Cmp
+7/25/2022, 9:22:36 PM - DEBUG - Getting cmps
+7/25/2022, 9:22:43 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:22:43 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:22:51 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:22:51 PM - DEBUG - Getting Waps
+7/25/2022, 9:22:57 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:22:57 PM - DEBUG - Getting Waps
+7/25/2022, 9:22:57 PM - DEBUG - Getting Cmp
+7/25/2022, 9:22:57 PM - DEBUG - Getting cmps
+7/25/2022, 9:22:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:23:11 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:23:11 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:23:15 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:23:15 PM - DEBUG - Getting Waps
+7/25/2022, 9:25:04 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:26:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:26:58 PM - DEBUG - Getting Waps
+7/25/2022, 9:29:22 PM - DEBUG - Getting Cmp
+7/25/2022, 9:29:22 PM - DEBUG - Getting cmps
+7/25/2022, 9:29:22 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:29:22 PM - DEBUG - Getting Waps
+7/25/2022, 9:29:27 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:29:35 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:29:35 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:30:13 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:30:16 PM - DEBUG - Getting Cmp
+7/25/2022, 9:30:16 PM - DEBUG - Getting cmps
+7/25/2022, 9:30:16 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:30:16 PM - DEBUG - Getting Waps
+7/25/2022, 9:30:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:30:27 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:30:27 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:30:27 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:30:27 PM - DEBUG - Getting Waps
+7/25/2022, 9:32:16 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:32:16 PM - DEBUG - Getting Waps
+7/25/2022, 9:32:16 PM - DEBUG - Getting Cmp
+7/25/2022, 9:32:16 PM - DEBUG - Getting cmps
+7/25/2022, 9:32:19 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:32:19 PM - DEBUG - Getting Waps
+7/25/2022, 9:32:19 PM - DEBUG - Getting Cmp
+7/25/2022, 9:32:19 PM - DEBUG - Getting cmps
+7/25/2022, 9:33:25 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:33:25 PM - DEBUG - Getting Waps
+7/25/2022, 9:33:25 PM - DEBUG - Getting Cmp
+7/25/2022, 9:33:25 PM - DEBUG - Getting cmps
+7/25/2022, 9:33:26 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:33:44 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:33:57 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:33:57 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:33:57 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:33:57 PM - DEBUG - Getting Waps
+7/25/2022, 9:34:37 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:34:37 PM - DEBUG - Getting Waps
+7/25/2022, 9:34:37 PM - DEBUG - Getting Cmp
+7/25/2022, 9:34:37 PM - DEBUG - Getting cmps
+7/25/2022, 9:34:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:35:04 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:35:23 PM - DEBUG - auth.service - login with username: guy
+7/25/2022, 9:35:23 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/25/2022, 9:35:23 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:35:23 PM - DEBUG - Getting Waps
+7/25/2022, 9:56:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 9:56:40 PM - DEBUG - Getting Waps
+7/25/2022, 10:12:49 PM - INFO - Sample Logger Middleware
+7/25/2022, 10:12:49 PM - DEBUG - Getting Waps
+7/25/2022, 10:43:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 10:43:21 PM - DEBUG - Getting Waps
+7/25/2022, 10:44:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 10:52:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 10:52:21 PM - INFO - Sample Logger Middleware
+7/25/2022, 10:52:21 PM - DEBUG - Getting Waps
+7/25/2022, 10:52:28 PM - DEBUG - Getting Cmp
+7/25/2022, 10:52:28 PM - DEBUG - Getting cmps
+7/25/2022, 10:52:28 PM - INFO - Sample Logger Middleware
+7/25/2022, 10:52:28 PM - DEBUG - Getting Waps
+7/25/2022, 10:52:33 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:04:42 PM - DEBUG - Getting Cmp
+7/25/2022, 11:04:42 PM - DEBUG - Getting cmps
+7/25/2022, 11:04:42 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:04:42 PM - DEBUG - Getting Waps
+7/25/2022, 11:04:43 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:04:52 PM - DEBUG - auth.service - login with username: 
+7/25/2022, 11:04:52 PM - ERROR - Failed to Login Error: Invalid username or password
+7/25/2022, 11:06:01 PM - DEBUG - auth.service - login with username: 
+7/25/2022, 11:06:01 PM - ERROR - Failed to Login Error: Invalid username or password
+7/25/2022, 11:09:11 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:09:11 PM - DEBUG - Getting Waps
+7/25/2022, 11:09:11 PM - DEBUG - Getting Cmp
+7/25/2022, 11:09:11 PM - DEBUG - Getting cmps
+7/25/2022, 11:09:11 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:10:53 PM - ERROR - cannot remove wap undefined | {}
+7/25/2022, 11:10:53 PM - ERROR - Failed to remove wap | {}
+7/25/2022, 11:11:17 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:30 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:30 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:33 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:33 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:36 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:36 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:38 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:38 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:40 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:40 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:41 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:41 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:43 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:43 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:47 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:47 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:50 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:50 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:53 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:53 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:56 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:56 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:56 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:56 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:11:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:11:58 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:12:02 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:12:02 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:12:25 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:12:25 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:13:57 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:13:58 PM - DEBUG - Getting Cmp
+7/25/2022, 11:13:58 PM - DEBUG - Getting cmps
+7/25/2022, 11:13:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:13:58 PM - DEBUG - Getting Waps
+7/25/2022, 11:13:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:05 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:05 PM - DEBUG - Getting Waps
+7/25/2022, 11:14:05 PM - DEBUG - Getting Cmp
+7/25/2022, 11:14:05 PM - DEBUG - Getting cmps
+7/25/2022, 11:14:34 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:46 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:46 PM - DEBUG - Getting Waps
+7/25/2022, 11:14:46 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:46 PM - DEBUG - Getting Cmp
+7/25/2022, 11:14:46 PM - DEBUG - Getting cmps
+7/25/2022, 11:14:48 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:48 PM - DEBUG - Getting Waps
+7/25/2022, 11:14:48 PM - DEBUG - Getting Cmp
+7/25/2022, 11:14:48 PM - DEBUG - Getting cmps
+7/25/2022, 11:14:48 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:58 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:58 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:14:59 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:14:59 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:00 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:00 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:01 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:01 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:01 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:01 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:15:01 PM - INFO - Sample Logger Middleware
+7/25/2022, 11:15:01 PM - DEBUG - Updating Cmp, service
+7/25/2022, 11:17:26 PM - INFO - Sample Logger Middleware
+7/26/2022, 7:14:55 AM - INFO - Server is running on port: 3030
+7/26/2022, 7:15:08 AM - DEBUG - Getting Cmp
+7/26/2022, 7:15:08 AM - DEBUG - Getting cmps
+7/26/2022, 7:15:08 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:15:08 AM - DEBUG - Getting Waps
+7/26/2022, 7:18:01 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:18:24 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:18:41 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:18:46 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:18:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:18:51 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:18:55 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:21:57 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:37:12 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:37:14 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:37:37 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:37:45 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:37:45 AM - DEBUG - Getting Waps
+7/26/2022, 7:37:45 AM - DEBUG - Getting Cmp
+7/26/2022, 7:37:45 AM - DEBUG - Getting cmps
+7/26/2022, 7:37:53 AM - DEBUG - Getting Cmp
+7/26/2022, 7:37:53 AM - DEBUG - Getting cmps
+7/26/2022, 7:37:53 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:37:53 AM - DEBUG - Getting Waps
+7/26/2022, 7:37:55 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:37:55 AM - DEBUG - Getting Waps
+7/26/2022, 7:37:55 AM - DEBUG - Getting Cmp
+7/26/2022, 7:37:55 AM - DEBUG - Getting cmps
+7/26/2022, 7:37:59 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:38:15 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:40:36 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:40:41 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:40:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:40:48 AM - DEBUG - Getting Waps
+7/26/2022, 7:40:48 AM - DEBUG - Getting Cmp
+7/26/2022, 7:40:48 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:04 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 7:41:04 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 7:41:28 AM - DEBUG - Getting Cmp
+7/26/2022, 7:41:28 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:28 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:28 AM - DEBUG - Getting Waps
+7/26/2022, 7:41:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:30 AM - DEBUG - Getting Waps
+7/26/2022, 7:41:30 AM - DEBUG - Getting Cmp
+7/26/2022, 7:41:30 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:31 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:31 AM - DEBUG - Getting Waps
+7/26/2022, 7:41:31 AM - DEBUG - Getting Cmp
+7/26/2022, 7:41:31 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:36 AM - DEBUG - Getting Cmp
+7/26/2022, 7:41:36 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:36 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:36 AM - DEBUG - Getting Waps
+7/26/2022, 7:41:37 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:37 AM - DEBUG - Getting Waps
+7/26/2022, 7:41:37 AM - DEBUG - Getting Cmp
+7/26/2022, 7:41:37 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:42 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 7:41:42 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 7:41:43 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:46 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:49 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:50 AM - DEBUG - Getting Cmp
+7/26/2022, 7:41:50 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:50 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:50 AM - DEBUG - Getting Waps
+7/26/2022, 7:41:56 AM - DEBUG - Getting Cmp
+7/26/2022, 7:41:56 AM - DEBUG - Getting cmps
+7/26/2022, 7:41:56 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:41:56 AM - DEBUG - Getting Waps
+7/26/2022, 7:42:00 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:42:02 AM - DEBUG - Getting Cmp
+7/26/2022, 7:42:02 AM - DEBUG - Getting cmps
+7/26/2022, 7:42:02 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:42:02 AM - DEBUG - Getting Waps
+7/26/2022, 7:42:08 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:42:12 AM - DEBUG - Getting Cmp
+7/26/2022, 7:42:12 AM - DEBUG - Getting cmps
+7/26/2022, 7:42:12 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:42:12 AM - DEBUG - Getting Waps
+7/26/2022, 7:42:12 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:42:13 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:42:13 AM - DEBUG - Getting Waps
+7/26/2022, 7:42:13 AM - DEBUG - Getting Cmp
+7/26/2022, 7:42:13 AM - DEBUG - Getting cmps
+7/26/2022, 7:42:47 AM - DEBUG - Getting Cmp
+7/26/2022, 7:42:47 AM - DEBUG - Getting cmps
+7/26/2022, 7:42:47 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:42:47 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:07 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:09 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:09 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:09 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:09 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:21 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:22 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:22 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:22 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:22 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:22 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:23 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:23 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:23 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:23 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:23 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:24 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:24 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:24 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:24 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:24 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:25 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:25 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:25 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:25 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:25 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:26 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:26 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:26 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:26 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:26 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:27 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:27 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:27 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:28 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:28 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:28 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:28 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:28 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:29 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:29 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:29 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:43:30 AM - DEBUG - Getting Waps
+7/26/2022, 7:43:30 AM - DEBUG - Getting Cmp
+7/26/2022, 7:43:30 AM - DEBUG - Getting cmps
+7/26/2022, 7:43:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:27 AM - DEBUG - Getting Cmp
+7/26/2022, 7:45:27 AM - DEBUG - Getting cmps
+7/26/2022, 7:45:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:27 AM - DEBUG - Getting Waps
+7/26/2022, 7:45:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:29 AM - DEBUG - Getting Waps
+7/26/2022, 7:45:29 AM - DEBUG - Getting Cmp
+7/26/2022, 7:45:29 AM - DEBUG - Getting cmps
+7/26/2022, 7:45:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:29 AM - DEBUG - Getting Waps
+7/26/2022, 7:45:29 AM - DEBUG - Getting Cmp
+7/26/2022, 7:45:29 AM - DEBUG - Getting cmps
+7/26/2022, 7:45:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:41 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:48 AM - DEBUG - Getting Cmp
+7/26/2022, 7:45:48 AM - DEBUG - Getting cmps
+7/26/2022, 7:45:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:45:48 AM - DEBUG - Getting Waps
+7/26/2022, 7:46:15 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:51:09 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:51:09 AM - DEBUG - Getting Waps
+7/26/2022, 7:51:09 AM - DEBUG - Getting Cmp
+7/26/2022, 7:51:09 AM - DEBUG - Getting cmps
+7/26/2022, 7:51:20 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 7:51:20 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 7:51:22 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:51:47 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:51:50 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:52:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 7:53:49 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:06:14 AM - DEBUG - Getting Cmp
+7/26/2022, 8:06:14 AM - DEBUG - Getting cmps
+7/26/2022, 8:06:14 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:06:14 AM - DEBUG - Getting Waps
+7/26/2022, 8:06:14 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:06:14 AM - INFO - New connected socket [id: E65Bk9JNJ6mxEQaPAAAB]
+7/26/2022, 8:07:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:07:27 AM - DEBUG - Getting Waps
+7/26/2022, 8:07:27 AM - DEBUG - Getting Cmp
+7/26/2022, 8:07:27 AM - DEBUG - Getting cmps
+7/26/2022, 8:07:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:07:27 AM - INFO - New connected socket [id: c536CSUfkuwmmsAdAAAD]
+7/26/2022, 8:07:37 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:07:37 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:08:30 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:08:31 AM - INFO - New connected socket [id: sk4W3ThIcqxFCN7uAAAC]
+7/26/2022, 8:08:31 AM - INFO - New connected socket [id: m0KG_hwaIwWqXABKAAAD]
+7/26/2022, 8:09:37 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:09:39 AM - INFO - New connected socket [id: 2-xC2Hl1-gOZvTtyAAAC]
+7/26/2022, 8:09:39 AM - INFO - New connected socket [id: u5HcXhr7qcjU01p9AAAD]
+7/26/2022, 8:12:58 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:12:58 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:12:58 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:12:58 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:15:01 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:15:02 AM - INFO - New connected socket [id: mHni7CVhgHD65bYYAAAC]
+7/26/2022, 8:15:02 AM - INFO - New connected socket [id: l5CqeXOBB9h_5ocaAAAD]
+7/26/2022, 8:15:41 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:15:41 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:15:41 AM - DEBUG - Getting Cmp
+7/26/2022, 8:15:41 AM - DEBUG - Getting cmps
+7/26/2022, 8:15:41 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:15:41 AM - DEBUG - Getting Waps
+7/26/2022, 8:15:41 AM - DEBUG - Getting Cmp
+7/26/2022, 8:15:41 AM - DEBUG - Getting cmps
+7/26/2022, 8:15:41 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:15:41 AM - DEBUG - Getting Waps
+7/26/2022, 8:15:41 AM - INFO - New connected socket [id: IgkdGP8Ubdh0hEHQAAAG]
+7/26/2022, 8:15:41 AM - INFO - New connected socket [id: HqYdoDd0pMD49wOaAAAH]
+7/26/2022, 8:15:49 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:15:49 AM - INFO - New connected socket [id: sXuv2Ban8qL_HnJJAAAB]
+7/26/2022, 8:15:49 AM - INFO - New connected socket [id: gSbB3-ueoAs_cinEAAAD]
+7/26/2022, 8:16:10 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:16:10 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:16:11 AM - DEBUG - Getting Cmp
+7/26/2022, 8:16:11 AM - DEBUG - Getting cmps
+7/26/2022, 8:16:11 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:16:11 AM - DEBUG - Getting Waps
+7/26/2022, 8:16:11 AM - DEBUG - Getting Cmp
+7/26/2022, 8:16:11 AM - DEBUG - Getting cmps
+7/26/2022, 8:16:11 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:16:11 AM - DEBUG - Getting Waps
+7/26/2022, 8:16:11 AM - INFO - New connected socket [id: -hGK-X-oVqIOIJw_AAAG]
+7/26/2022, 8:16:11 AM - INFO - New connected socket [id: Lo1Mhmv3XSwL6E_OAAAH]
+7/26/2022, 8:16:30 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:16:30 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:16:30 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:16:30 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:16:49 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:16:49 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:16:49 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:16:49 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:17:36 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:17:36 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:17:36 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:17:36 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:18:27 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:18:27 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:18:27 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:18:27 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:18:42 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:18:42 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:18:44 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:18:44 AM - DEBUG - Getting Cmp
+7/26/2022, 8:18:44 AM - DEBUG - Getting cmps
+7/26/2022, 8:18:44 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:18:44 AM - DEBUG - Getting Waps
+7/26/2022, 8:18:44 AM - INFO - New connected socket [id: c3xYFnQShWUV0xetAAAJ]
+7/26/2022, 8:19:16 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:19:16 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:19:16 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:19:16 AM - DEBUG - Getting Waps
+7/26/2022, 8:19:16 AM - DEBUG - Getting Cmp
+7/26/2022, 8:19:16 AM - DEBUG - Getting cmps
+7/26/2022, 8:19:16 AM - INFO - New connected socket [id: YvMcsAhLGAL2kKK5AAAM]
+7/26/2022, 8:19:17 AM - DEBUG - Getting Cmp
+7/26/2022, 8:19:17 AM - DEBUG - Getting cmps
+7/26/2022, 8:19:17 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:19:17 AM - DEBUG - Getting Waps
+7/26/2022, 8:19:17 AM - INFO - New connected socket [id: _oEF8ovWSshaJ1q3AAAN]
+7/26/2022, 8:19:29 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:19:29 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:19:29 AM - DEBUG - Getting Cmp
+7/26/2022, 8:19:29 AM - DEBUG - Getting cmps
+7/26/2022, 8:19:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:19:29 AM - DEBUG - Getting Waps
+7/26/2022, 8:19:29 AM - INFO - New connected socket [id: jl8NzbZPRTl3TMFBAAAQ]
+7/26/2022, 8:19:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:19:29 AM - DEBUG - Getting Waps
+7/26/2022, 8:19:29 AM - DEBUG - Getting Cmp
+7/26/2022, 8:19:29 AM - DEBUG - Getting cmps
+7/26/2022, 8:19:30 AM - INFO - New connected socket [id: Ii8m_kzr1w3FjqLZAAAR]
+7/26/2022, 8:19:42 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:20:12 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:20:12 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:20:12 AM - DEBUG - Getting Waps
+7/26/2022, 8:20:12 AM - DEBUG - Getting Cmp
+7/26/2022, 8:20:12 AM - DEBUG - Getting cmps
+7/26/2022, 8:20:12 AM - INFO - New connected socket [id: XrB8c-ZzYBBQ1GlyAAAT]
+7/26/2022, 8:20:34 AM - DEBUG - Getting Cmp
+7/26/2022, 8:20:34 AM - DEBUG - Getting cmps
+7/26/2022, 8:20:34 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:20:34 AM - DEBUG - Getting Waps
+7/26/2022, 8:20:34 AM - DEBUG - Getting Cmp
+7/26/2022, 8:20:34 AM - DEBUG - Getting cmps
+7/26/2022, 8:20:34 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:20:34 AM - DEBUG - Getting Waps
+7/26/2022, 8:20:38 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:20:39 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:20:39 AM - DEBUG - Getting Waps
+7/26/2022, 8:20:39 AM - DEBUG - Getting Cmp
+7/26/2022, 8:20:39 AM - DEBUG - Getting cmps
+7/26/2022, 8:20:39 AM - INFO - New connected socket [id: Uhz1lUBjLVgK8jzmAAAV]
+7/26/2022, 8:20:43 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:20:43 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:20:44 AM - INFO - Socket is leaving topic 62df796ed06fe0dfe5ce05ab [id: Ii8m_kzr1w3FjqLZAAAR]
+7/26/2022, 8:20:44 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:21:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:21:45 AM - INFO - Socket is leaving topic 62df79acd06fe0dfe5ce05ac [id: Ii8m_kzr1w3FjqLZAAAR]
+7/26/2022, 8:21:45 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:21:48 AM - INFO - Socket is leaving topic 62df79d7d06fe0dfe5ce05ad [id: Uhz1lUBjLVgK8jzmAAAV]
+7/26/2022, 8:21:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:00 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:22:00 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:00 AM - DEBUG - Getting Waps
+7/26/2022, 8:22:00 AM - DEBUG - Getting Cmp
+7/26/2022, 8:22:00 AM - DEBUG - Getting cmps
+7/26/2022, 8:22:00 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:00 AM - INFO - New connected socket [id: CmrBUFYKcWFykuHEAAAX]
+7/26/2022, 8:22:03 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:22:03 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:03 AM - DEBUG - Getting Waps
+7/26/2022, 8:22:03 AM - DEBUG - Getting Cmp
+7/26/2022, 8:22:03 AM - DEBUG - Getting cmps
+7/26/2022, 8:22:03 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:04 AM - INFO - New connected socket [id: J9W9Qs3HL67_j71aAAAZ]
+7/26/2022, 8:22:11 AM - INFO - Socket is leaving topic 62df79d7d06fe0dfe5ce05ad [id: CmrBUFYKcWFykuHEAAAX]
+7/26/2022, 8:22:11 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:12 AM - INFO - Socket is leaving topic 62df79acd06fe0dfe5ce05ac [id: J9W9Qs3HL67_j71aAAAZ]
+7/26/2022, 8:22:12 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:40 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:22:40 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:40 AM - DEBUG - Getting Waps
+7/26/2022, 8:22:40 AM - DEBUG - Getting Cmp
+7/26/2022, 8:22:40 AM - DEBUG - Getting cmps
+7/26/2022, 8:22:40 AM - INFO - New connected socket [id: Ibq9DxHxh-IMbuvNAAAb]
+7/26/2022, 8:22:42 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:22:42 AM - DEBUG - Getting Cmp
+7/26/2022, 8:22:42 AM - DEBUG - Getting cmps
+7/26/2022, 8:22:42 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:42 AM - DEBUG - Getting Waps
+7/26/2022, 8:22:42 AM - INFO - New connected socket [id: 0GpT_iYd0nJUDCtDAAAd]
+7/26/2022, 8:22:44 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:45 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:56 AM - INFO - Socket is leaving topic 62df7a25d06fe0dfe5ce05b3 [id: Ibq9DxHxh-IMbuvNAAAb]
+7/26/2022, 8:22:56 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:22:59 AM - INFO - Socket is leaving topic 62df7a24d06fe0dfe5ce05b2 [id: 0GpT_iYd0nJUDCtDAAAd]
+7/26/2022, 8:22:59 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:23:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:23:30 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:23:56 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:23:57 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:23:57 AM - DEBUG - Getting Waps
+7/26/2022, 8:23:57 AM - DEBUG - Getting Cmp
+7/26/2022, 8:23:57 AM - DEBUG - Getting cmps
+7/26/2022, 8:23:57 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:23:57 AM - INFO - New connected socket [id: 9rh5tQ4yTV315119AAAf]
+7/26/2022, 8:24:03 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:24:03 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:24:29 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:24:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:24:29 AM - DEBUG - Getting Waps
+7/26/2022, 8:24:29 AM - DEBUG - Getting Cmp
+7/26/2022, 8:24:29 AM - DEBUG - Getting cmps
+7/26/2022, 8:24:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:24:29 AM - INFO - New connected socket [id: VLYvBlyKSm6uFUXGAAAh]
+7/26/2022, 8:25:17 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:25:17 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:25:17 AM - DEBUG - Getting Waps
+7/26/2022, 8:25:17 AM - DEBUG - Getting Cmp
+7/26/2022, 8:25:17 AM - DEBUG - Getting cmps
+7/26/2022, 8:25:17 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:25:17 AM - INFO - New connected socket [id: tFWimzB_h4zYtWRlAAAj]
+7/26/2022, 8:25:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:25:30 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:26:35 AM - INFO - Socket is leaving topic 62df7a25d06fe0dfe5ce05b3 [id: tFWimzB_h4zYtWRlAAAj]
+7/26/2022, 8:26:35 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:35 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:40 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:26:40 AM - DEBUG - Getting Cmp
+7/26/2022, 8:26:40 AM - DEBUG - Getting cmps
+7/26/2022, 8:26:40 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:40 AM - DEBUG - Getting Waps
+7/26/2022, 8:26:40 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:40 AM - INFO - New connected socket [id: pm4hpOnYtv3Q7kTQAAAl]
+7/26/2022, 8:26:44 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:26:44 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:44 AM - DEBUG - Getting Waps
+7/26/2022, 8:26:44 AM - DEBUG - Getting Cmp
+7/26/2022, 8:26:44 AM - DEBUG - Getting cmps
+7/26/2022, 8:26:44 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:44 AM - INFO - New connected socket [id: MqF2oLWwv4GrvPENAAAn]
+7/26/2022, 8:26:49 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:26:50 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:50 AM - DEBUG - Getting Waps
+7/26/2022, 8:26:50 AM - DEBUG - Getting Cmp
+7/26/2022, 8:26:50 AM - DEBUG - Getting cmps
+7/26/2022, 8:26:50 AM - INFO - New connected socket [id: vwLLATpIcGwgktGJAAAp]
+7/26/2022, 8:26:52 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:26:52 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:26:52 AM - DEBUG - Getting Waps
+7/26/2022, 8:26:52 AM - DEBUG - Getting Cmp
+7/26/2022, 8:26:52 AM - DEBUG - Getting cmps
+7/26/2022, 8:26:52 AM - INFO - New connected socket [id: gsmykadodoC2vf3fAAAr]
+7/26/2022, 8:27:17 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:19 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:27:19 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:19 AM - DEBUG - Getting Waps
+7/26/2022, 8:27:19 AM - DEBUG - Getting Cmp
+7/26/2022, 8:27:19 AM - DEBUG - Getting cmps
+7/26/2022, 8:27:19 AM - INFO - New connected socket [id: tkXv2Ptm_yZ-BgLSAAAt]
+7/26/2022, 8:27:39 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:27:39 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:39 AM - DEBUG - Getting Waps
+7/26/2022, 8:27:39 AM - DEBUG - Getting Cmp
+7/26/2022, 8:27:39 AM - DEBUG - Getting cmps
+7/26/2022, 8:27:39 AM - INFO - New connected socket [id: I5nm7s44w4SnO6C7AAAv]
+7/26/2022, 8:27:40 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:27:40 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:40 AM - DEBUG - Getting Waps
+7/26/2022, 8:27:40 AM - DEBUG - Getting Cmp
+7/26/2022, 8:27:40 AM - DEBUG - Getting cmps
+7/26/2022, 8:27:41 AM - INFO - New connected socket [id: MaGnD52Wsh80Ol0UAAAx]
+7/26/2022, 8:27:42 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:27:43 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:43 AM - DEBUG - Getting Waps
+7/26/2022, 8:27:43 AM - DEBUG - Getting Cmp
+7/26/2022, 8:27:43 AM - DEBUG - Getting cmps
+7/26/2022, 8:27:43 AM - INFO - New connected socket [id: Hiqxc31H681chplJAAAz]
+7/26/2022, 8:27:46 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:27:46 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:46 AM - DEBUG - Getting Waps
+7/26/2022, 8:27:46 AM - DEBUG - Getting Cmp
+7/26/2022, 8:27:46 AM - DEBUG - Getting cmps
+7/26/2022, 8:27:46 AM - INFO - New connected socket [id: 9OlMWIrtDp6PRr_oAAA1]
+7/26/2022, 8:27:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:57 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:27:57 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:29:32 AM - INFO - Socket is leaving topic 62df7b54d06fe0dfe5ce05b7 [id: 9OlMWIrtDp6PRr_oAAA1]
+7/26/2022, 8:29:32 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:29:32 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:29:32 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:29:32 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:29:32 AM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 8:29:32 AM - ERROR - Failed to remove wap | {}
+7/26/2022, 8:29:37 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:29:38 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:29:38 AM - DEBUG - Getting Waps
+7/26/2022, 8:29:38 AM - DEBUG - Getting Cmp
+7/26/2022, 8:29:38 AM - DEBUG - Getting cmps
+7/26/2022, 8:29:38 AM - INFO - New connected socket [id: TwSKNEI9AyZkscJMAAA3]
+7/26/2022, 8:29:40 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:29:59 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:29:59 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:29:59 AM - DEBUG - Getting Waps
+7/26/2022, 8:29:59 AM - DEBUG - Getting Cmp
+7/26/2022, 8:29:59 AM - DEBUG - Getting cmps
+7/26/2022, 8:29:59 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:29:59 AM - INFO - New connected socket [id: HUwW0E_5tb69I0vjAAA5]
+7/26/2022, 8:30:22 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:30:22 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:30:26 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:30:26 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:30:26 AM - ERROR - Failed to update cmp | {}
+7/26/2022, 8:30:38 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:30:38 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:30:38 AM - ERROR - Failed to update cmp | {}
+7/26/2022, 8:31:59 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:31:59 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:31:59 AM - DEBUG - Getting Waps
+7/26/2022, 8:31:59 AM - DEBUG - Getting Cmp
+7/26/2022, 8:31:59 AM - DEBUG - Getting cmps
+7/26/2022, 8:31:59 AM - INFO - New connected socket [id: KCIiE1OZndeDbguOAAA7]
+7/26/2022, 8:32:01 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:32:03 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:32:03 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:32:08 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:32:08 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:32:11 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:32:11 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:32:52 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:32:52 AM - INFO - New connected socket [id: fVON5zScDtWB1yPwAAAB]
+7/26/2022, 8:32:53 AM - INFO - New connected socket [id: kuZGEjzf2jh747wmAAAD]
+7/26/2022, 8:33:09 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:33:09 AM - INFO - New connected socket [id: R_8diieqTolvx6S_AAAB]
+7/26/2022, 8:33:10 AM - INFO - New connected socket [id: BRxxLT7xqKI7c2-0AAAD]
+7/26/2022, 8:33:26 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:33:26 AM - DEBUG - Getting Cmp
+7/26/2022, 8:33:26 AM - DEBUG - Getting cmps
+7/26/2022, 8:33:26 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:33:26 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:33:26 AM - DEBUG - Getting Waps
+7/26/2022, 8:33:27 AM - INFO - New connected socket [id: ROpspLzXveFKolYrAAAF]
+7/26/2022, 8:33:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:33:30 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:34:42 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:34:42 AM - INFO - New connected socket [id: dPe2w1I-ilpGeuTsAAAC]
+7/26/2022, 8:34:42 AM - INFO - New connected socket [id: d5wGP1yYDktGo8yRAAAD]
+7/26/2022, 8:35:01 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:35:02 AM - INFO - New connected socket [id: rfYiv6fkIMr5c125AAAB]
+7/26/2022, 8:35:03 AM - INFO - New connected socket [id: u1tx07Q9tjxTDMBZAAAD]
+7/26/2022, 8:35:10 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:35:10 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:35:13 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:35:13 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:35:25 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:35:25 AM - DEBUG - Getting Cmp
+7/26/2022, 8:35:25 AM - DEBUG - Getting cmps
+7/26/2022, 8:35:25 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:35:25 AM - DEBUG - Getting Waps
+7/26/2022, 8:35:25 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:35:26 AM - INFO - New connected socket [id: niTkDHb6qB02ErbHAAAF]
+7/26/2022, 8:35:28 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:35:28 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:36:30 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:36:31 AM - INFO - New connected socket [id: 5X1NC0kGx8WnFwQMAAAB]
+7/26/2022, 8:36:31 AM - INFO - New connected socket [id: nPItWKeN4waQYJz7AAAD]
+7/26/2022, 8:36:37 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:36:37 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:36:45 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:36:45 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:38:01 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:38:01 AM - INFO - New connected socket [id: zzolBUKHttcrrizrAAAB]
+7/26/2022, 8:38:02 AM - INFO - New connected socket [id: 12HeN2BgAqj7axI5AAAD]
+7/26/2022, 8:38:10 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:38:10 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:38:10 AM - DEBUG - Getting Waps
+7/26/2022, 8:38:10 AM - DEBUG - Getting Cmp
+7/26/2022, 8:38:10 AM - DEBUG - Getting cmps
+7/26/2022, 8:38:10 AM - INFO - New connected socket [id: 1B2_8DRXXcACl8_kAAAF]
+7/26/2022, 8:38:11 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:38:14 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:38:14 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:38:16 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:38:16 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:38:26 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:38:26 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:38:35 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:38:36 AM - INFO - New connected socket [id: 6ErZUYSzqR2n7a-RAAAB]
+7/26/2022, 8:38:36 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:38:36 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:38:36 AM - INFO - New connected socket [id: BLC84p5w_c-qRQqmAAAD]
+7/26/2022, 8:40:08 AM - INFO - Server is running on port: 3030
+7/26/2022, 8:40:09 AM - INFO - New connected socket [id: EkLpdqG4wMXfhtGiAAAB]
+7/26/2022, 8:40:09 AM - INFO - New connected socket [id: dmnexa-cbrvinh9IAAAD]
+7/26/2022, 8:40:10 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:10 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:40:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:32 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:32 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:40:32 AM - ERROR - Failed to update cmp | {}
+7/26/2022, 8:40:39 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:40:39 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:39 AM - DEBUG - Getting Waps
+7/26/2022, 8:40:39 AM - DEBUG - Getting Cmp
+7/26/2022, 8:40:39 AM - DEBUG - Getting cmps
+7/26/2022, 8:40:39 AM - INFO - New connected socket [id: 6V8BPgDD0MhZvHUoAAAF]
+7/26/2022, 8:40:40 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:44 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:44 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:40:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:40:48 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:00 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 8:41:00 AM - DEBUG - Getting Cmp
+7/26/2022, 8:41:00 AM - DEBUG - Getting cmps
+7/26/2022, 8:41:00 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:00 AM - DEBUG - Getting Waps
+7/26/2022, 8:41:00 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:00 AM - INFO - New connected socket [id: 4f8Qpo6I6UIB9AYxAAAH]
+7/26/2022, 8:41:04 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:04 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:05 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:05 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:06 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:06 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:07 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:07 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:08 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:08 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:09 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:09 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:30 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:30 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:31 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:31 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:32 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:32 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:32 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:32 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:33 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:33 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:34 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:34 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:35 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:35 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:37 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:37 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:38 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:38 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:40 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:40 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:41 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:41 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:41:44 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:41:44 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:01 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:01 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:02 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:02 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:03 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:03 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:04 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:04 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:05 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:05 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:06 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:06 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:07 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:07 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:08 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:08 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:09 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:09 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:10 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:10 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:11 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:11 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:13 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:13 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:13 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:13 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:14 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:14 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:15 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:15 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:16 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:16 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:18 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:18 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:19 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:19 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:20 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:20 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:21 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:21 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:22 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:22 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:22 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:22 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:23 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:23 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:24 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:24 AM - DEBUG - Updating Cmp, service
+7/26/2022, 8:44:24 AM - INFO - Sample Logger Middleware
+7/26/2022, 8:44:24 AM - DEBUG - Updating Cmp, service
+7/26/2022, 10:05:25 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:05:25 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - DEBUG - Getting Waps
+7/26/2022, 10:05:27 AM - DEBUG - Getting Cmp
+7/26/2022, 10:05:27 AM - DEBUG - Getting cmps
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - INFO - New connected socket [id: qPi4fQg5Q3l1bd5NAAAK]
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - DEBUG - Getting Waps
+7/26/2022, 10:05:27 AM - DEBUG - Getting Cmp
+7/26/2022, 10:05:27 AM - DEBUG - Getting cmps
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - INFO - New connected socket [id: 0l5xy5Ogjm4EXfnjAAAL]
+7/26/2022, 10:11:00 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:11:23 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:17:30 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:35:06 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:41:34 AM - DEBUG - Getting Cmp
+7/26/2022, 10:41:34 AM - DEBUG - Getting cmps
+7/26/2022, 10:41:34 AM - INFO - New connected socket [id: qynWjPFELhBeI2g_AAAB]
+7/26/2022, 10:41:58 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:41:58 AM - DEBUG - Getting Cmp
+7/26/2022, 10:41:58 AM - DEBUG - Getting cmps
+7/26/2022, 10:41:58 AM - INFO - New connected socket [id: F4E4-8CNWc-BM2GpAAAD]
+7/26/2022, 10:42:21 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:42:24 AM - INFO - New connected socket [id: Amrn1v8a0-YUSEFHAAAB]
+7/26/2022, 10:42:28 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:42:28 AM - DEBUG - Getting Cmp
+7/26/2022, 10:42:28 AM - DEBUG - Getting cmps
+7/26/2022, 10:42:28 AM - INFO - New connected socket [id: FxQlcCX-yGvBWqvLAAAD]
+7/26/2022, 10:43:07 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:43:08 AM - INFO - New connected socket [id: e-vWwvyMthfcZo67AAAB]
+7/26/2022, 10:43:09 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:43:09 AM - DEBUG - Getting Cmp
+7/26/2022, 10:43:09 AM - DEBUG - Getting cmps
+7/26/2022, 10:43:09 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:43:09 AM - DEBUG - Getting Waps
+7/26/2022, 10:43:09 AM - INFO - New connected socket [id: hD3rJEOP-9P4D8iBAAAD]
+7/26/2022, 10:46:53 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:46:55 AM - INFO - New connected socket [id: 7H1fO2a7aqBPan7sAAAB]
+7/26/2022, 11:45:48 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:45:48 AM - DEBUG - Getting Cmp
+7/26/2022, 11:45:48 AM - DEBUG - Getting cmps
+7/26/2022, 11:45:48 AM - INFO - Sample Logger Middleware
+7/26/2022, 11:45:48 AM - DEBUG - Getting Waps
+7/26/2022, 11:45:48 AM - INFO - New connected socket [id: oze4eJXQe8O6720LAAAD]
+7/26/2022, 11:47:16 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:47:17 AM - INFO - Sample Logger Middleware
+7/26/2022, 11:47:17 AM - DEBUG - Getting Waps
+7/26/2022, 11:47:17 AM - DEBUG - Getting Cmp
+7/26/2022, 11:47:17 AM - DEBUG - Getting cmps
+7/26/2022, 11:47:17 AM - INFO - New connected socket [id: 3qasGzjqOC5Ygk6LAAAF]
+7/26/2022, 11:47:20 AM - DEBUG - auth.service - login with username: guy
+7/26/2022, 11:47:20 AM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/26/2022, 11:47:20 AM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: 3qasGzjqOC5Ygk6LAAAF]
+7/26/2022, 11:47:23 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:47:23 AM - INFO - Sample Logger Middleware
+7/26/2022, 11:47:23 AM - DEBUG - Getting Waps
+7/26/2022, 11:47:23 AM - DEBUG - Getting Cmp
+7/26/2022, 11:47:23 AM - DEBUG - Getting cmps
+7/26/2022, 11:47:24 AM - INFO - New connected socket [id: OO_3_DTHFHD_EWljAAAH]
+7/26/2022, 11:47:24 AM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: OO_3_DTHFHD_EWljAAAH]
+7/26/2022, 11:47:24 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:47:25 AM - INFO - Sample Logger Middleware
+7/26/2022, 11:47:25 AM - DEBUG - Getting Waps
+7/26/2022, 11:47:25 AM - DEBUG - Getting Cmp
+7/26/2022, 11:47:25 AM - DEBUG - Getting cmps
+7/26/2022, 11:47:25 AM - INFO - New connected socket [id: Rs30N9TVdOHzsvj3AAAJ]
+7/26/2022, 11:47:25 AM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: Rs30N9TVdOHzsvj3AAAJ]
+7/26/2022, 11:47:29 AM - INFO - Sample Logger Middleware
+7/26/2022, 11:47:29 AM - DEBUG - Getting Waps
+7/26/2022, 11:51:27 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:37:53 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:38:17 PM - DEBUG - Getting Cmp
+7/26/2022, 12:38:17 PM - DEBUG - Getting cmps
+7/26/2022, 12:38:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:38:17 PM - DEBUG - Getting Waps
+7/26/2022, 12:38:17 PM - INFO - New connected socket [id: 64hwIP7wKu88LiHWAAAB]
+7/26/2022, 12:38:29 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:38:40 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:38:40 PM - DEBUG - Getting Waps
+7/26/2022, 12:38:40 PM - DEBUG - Getting Cmp
+7/26/2022, 12:38:40 PM - DEBUG - Getting cmps
+7/26/2022, 12:38:40 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:38:40 PM - INFO - New connected socket [id: H-LmuEqPx-g_SZNBAAAD]
+7/26/2022, 12:38:44 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:38:44 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:38:44 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:38:44 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:38:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:38:45 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:38:45 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:38:45 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:39:59 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:40:00 PM - INFO - New connected socket [id: twHQotuFykAAHGOgAAAC]
+7/26/2022, 12:40:00 PM - INFO - New connected socket [id: CgW9aUa6c7JS7aY8AAAD]
+7/26/2022, 12:40:21 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:40:21 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:40:21 PM - DEBUG - Getting Cmp
+7/26/2022, 12:40:21 PM - DEBUG - Getting cmps
+7/26/2022, 12:40:21 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:21 PM - DEBUG - Getting Waps
+7/26/2022, 12:40:21 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:21 PM - INFO - New connected socket [id: aF6H9vw1d4DR41xFAAAG]
+7/26/2022, 12:40:21 PM - DEBUG - Getting Cmp
+7/26/2022, 12:40:21 PM - DEBUG - Getting cmps
+7/26/2022, 12:40:21 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:21 PM - DEBUG - Getting Waps
+7/26/2022, 12:40:21 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:22 PM - INFO - New connected socket [id: qQciUE2gOU0pqkbMAAAH]
+7/26/2022, 12:40:29 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:40:29 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:40:29 PM - DEBUG - Getting Cmp
+7/26/2022, 12:40:29 PM - DEBUG - Getting cmps
+7/26/2022, 12:40:29 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:29 PM - DEBUG - Getting Waps
+7/26/2022, 12:40:29 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:29 PM - DEBUG - Getting Cmp
+7/26/2022, 12:40:29 PM - DEBUG - Getting cmps
+7/26/2022, 12:40:29 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:29 PM - DEBUG - Getting Waps
+7/26/2022, 12:40:29 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:40:29 PM - INFO - New connected socket [id: wtTOyl9dAC9N_DysAAAK]
+7/26/2022, 12:40:29 PM - INFO - New connected socket [id: vrCIK2fc5pdxgxaGAAAL]
+7/26/2022, 12:43:24 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:43:24 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:43:35 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:43:35 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:43:59 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:43:59 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:44:04 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:44:08 PM - INFO - Socket is leaving topic 62dfb6140e57a39848859dcb [id: vrCIK2fc5pdxgxaGAAAL]
+7/26/2022, 12:44:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:44:12 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:44:12 PM - DEBUG - Getting Waps
+7/26/2022, 12:44:12 PM - DEBUG - Getting Cmp
+7/26/2022, 12:44:12 PM - DEBUG - Getting cmps
+7/26/2022, 12:44:12 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:44:12 PM - INFO - New connected socket [id: boGW-F38ZH9eeJDXAAAN]
+7/26/2022, 12:44:23 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:44:24 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:44:24 PM - DEBUG - Getting Waps
+7/26/2022, 12:44:24 PM - DEBUG - Getting Cmp
+7/26/2022, 12:44:24 PM - DEBUG - Getting cmps
+7/26/2022, 12:44:24 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:44:24 PM - INFO - New connected socket [id: fglrh81wG2ItajypAAAP]
+7/26/2022, 12:44:33 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:44:33 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:44:44 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:44:44 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:45:29 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:45:29 PM - INFO - New connected socket [id: mK7sQ4zJjv3vlKs7AAAB]
+7/26/2022, 12:45:30 PM - INFO - New connected socket [id: 2jrwSBPurzqNueLUAAAD]
+7/26/2022, 12:45:31 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:45:31 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:45:32 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:45:32 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:46:05 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:46:05 PM - INFO - New connected socket [id: VkFzGwPO6Gj90KwhAAAB]
+7/26/2022, 12:46:06 PM - INFO - New connected socket [id: adTWCQls6rz1rOvMAAAD]
+7/26/2022, 12:46:10 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:46:10 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:46:21 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:46:21 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:47:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:47:23 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:47:23 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:47:23 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:48:06 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:48:06 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:48:06 PM - DEBUG - Getting Cmp
+7/26/2022, 12:48:06 PM - DEBUG - Getting cmps
+7/26/2022, 12:48:06 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:48:06 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:48:06 PM - DEBUG - Getting Waps
+7/26/2022, 12:48:06 PM - INFO - New connected socket [id: 8mHmWPREBQMXMOBuAAAG]
+7/26/2022, 12:48:06 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:48:06 PM - DEBUG - Getting Waps
+7/26/2022, 12:48:06 PM - DEBUG - Getting Cmp
+7/26/2022, 12:48:06 PM - DEBUG - Getting cmps
+7/26/2022, 12:48:06 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:48:07 PM - INFO - New connected socket [id: ZRODgDkGmXC4jABjAAAH]
+7/26/2022, 12:48:14 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:48:14 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:48:15 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:48:15 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:48:59 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:48:59 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:49:00 PM - DEBUG - Getting Cmp
+7/26/2022, 12:49:00 PM - DEBUG - Getting cmps
+7/26/2022, 12:49:00 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:49:00 PM - DEBUG - Getting Waps
+7/26/2022, 12:49:00 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:49:00 PM - INFO - New connected socket [id: o7BqfrPzMIwPsHsfAAAK]
+7/26/2022, 12:49:00 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:49:00 PM - DEBUG - Getting Waps
+7/26/2022, 12:49:00 PM - DEBUG - Getting Cmp
+7/26/2022, 12:49:00 PM - DEBUG - Getting cmps
+7/26/2022, 12:49:00 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:49:00 PM - INFO - New connected socket [id: 2pGsXdMiKF6I98JvAAAL]
+7/26/2022, 12:49:05 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:49:05 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:49:06 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:49:06 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:49:08 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:49:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:49:08 PM - DEBUG - Getting Waps
+7/26/2022, 12:49:08 PM - DEBUG - Getting Cmp
+7/26/2022, 12:49:08 PM - DEBUG - Getting cmps
+7/26/2022, 12:49:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:49:08 PM - INFO - New connected socket [id: 9YtVvqng0pDlUlCJAAAN]
+7/26/2022, 12:50:22 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:50:22 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:50:23 PM - DEBUG - Getting Cmp
+7/26/2022, 12:50:23 PM - DEBUG - Getting cmps
+7/26/2022, 12:50:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:50:23 PM - DEBUG - Getting Waps
+7/26/2022, 12:50:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:50:23 PM - INFO - New connected socket [id: 75NRHMHxNLBya8a3AAAQ]
+7/26/2022, 12:50:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:50:23 PM - DEBUG - Getting Waps
+7/26/2022, 12:50:23 PM - DEBUG - Getting Cmp
+7/26/2022, 12:50:23 PM - DEBUG - Getting cmps
+7/26/2022, 12:50:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:50:23 PM - INFO - New connected socket [id: JXuvrfLUJiVAwAvkAAAR]
+7/26/2022, 12:50:36 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:50:36 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:50:36 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:50:36 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:35 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:52:35 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:52:36 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:52:36 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:39 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:52:39 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:52:41 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:52:41 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:52:41 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:43 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:52:43 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:52:45 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:52:45 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:52:45 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:49 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:52:49 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:51 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:52:51 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:52:51 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:52:51 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:53 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:52:53 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:54 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:52:54 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:52:54 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:52:54 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:56 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:52:56 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:52:57 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:52:57 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:52:59 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:52:59 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:53:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:53:02 PM - DEBUG - Updating Cmp, service
+7/26/2022, 12:53:03 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 12:53:03 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:53:05 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 12:53:05 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:54:41 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:54:41 PM - INFO - New connected socket [id: Po-Ydpu3EqzYgmhkAAAB]
+7/26/2022, 12:54:42 PM - INFO - New connected socket [id: vXgga4oScdtnu2ynAAAD]
+7/26/2022, 12:54:42 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 12:54:42 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:55:26 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:55:26 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:55:27 PM - DEBUG - Getting Cmp
+7/26/2022, 12:55:27 PM - DEBUG - Getting cmps
+7/26/2022, 12:55:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:55:27 PM - DEBUG - Getting Waps
+7/26/2022, 12:55:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:55:27 PM - DEBUG - Getting Cmp
+7/26/2022, 12:55:27 PM - DEBUG - Getting cmps
+7/26/2022, 12:55:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:55:27 PM - DEBUG - Getting Waps
+7/26/2022, 12:55:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:55:27 PM - INFO - New connected socket [id: 6f19Vq4A46uCXaLHAAAG]
+7/26/2022, 12:55:27 PM - INFO - New connected socket [id: xS0alqgwc39SYfctAAAH]
+7/26/2022, 12:55:33 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:55:33 PM - INFO - New connected socket [id: 9Pzm4MdvcZLd60AwAAAB]
+7/26/2022, 12:55:34 PM - INFO - New connected socket [id: 6OAx3nvh80ekZZksAAAD]
+7/26/2022, 12:57:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:57:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:57:04 PM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 12:57:04 PM - ERROR - Failed to remove wap | {}
+7/26/2022, 12:57:04 PM - ERROR - cannot remove wap undefined | {}
+7/26/2022, 12:57:04 PM - ERROR - Failed to remove wap | {}
+7/26/2022, 12:57:39 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:57:39 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:57:47 PM - INFO - Socket is leaving topic 62dfb768585c0e8877be9e1a [id: 9Pzm4MdvcZLd60AwAAAB]
+7/26/2022, 12:57:47 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:57:49 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:57:53 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:57:53 PM - DEBUG - Getting Waps
+7/26/2022, 12:57:53 PM - DEBUG - Getting Cmp
+7/26/2022, 12:57:53 PM - DEBUG - Getting cmps
+7/26/2022, 12:57:53 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:57:53 PM - INFO - New connected socket [id: Wc3jCg8ZKJfT4oApAAAF]
+7/26/2022, 12:58:11 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 12:58:11 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:58:15 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:58:15 PM - DEBUG - Getting Cmp
+7/26/2022, 12:58:15 PM - DEBUG - Getting cmps
+7/26/2022, 12:58:15 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:15 PM - DEBUG - Getting Waps
+7/26/2022, 12:58:15 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:15 PM - INFO - New connected socket [id: gl66oKY4ya0EqSAGAAAH]
+7/26/2022, 12:58:17 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:58:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:17 PM - DEBUG - Getting Waps
+7/26/2022, 12:58:17 PM - DEBUG - Getting Cmp
+7/26/2022, 12:58:17 PM - DEBUG - Getting cmps
+7/26/2022, 12:58:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:17 PM - INFO - New connected socket [id: MggwP2WTgoFF1TU-AAAJ]
+7/26/2022, 12:58:19 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 12:58:19 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:58:58 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:58:58 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:58:58 PM - DEBUG - Getting Cmp
+7/26/2022, 12:58:58 PM - DEBUG - Getting cmps
+7/26/2022, 12:58:58 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:58 PM - DEBUG - Getting Waps
+7/26/2022, 12:58:58 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:58 PM - INFO - New connected socket [id: LczW_MpdD_Z4GRgLAAAM]
+7/26/2022, 12:58:58 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:58 PM - DEBUG - Getting Waps
+7/26/2022, 12:58:58 PM - DEBUG - Getting Cmp
+7/26/2022, 12:58:58 PM - DEBUG - Getting cmps
+7/26/2022, 12:58:58 PM - INFO - Sample Logger Middleware
+7/26/2022, 12:58:58 PM - INFO - New connected socket [id: t74WVOeoQ8tJWQrYAAAN]
+7/26/2022, 12:59:14 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 12:59:14 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 12:59:41 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:59:42 PM - INFO - New connected socket [id: rmmPd8zp7QRj7j33AAAB]
+7/26/2022, 12:59:42 PM - INFO - New connected socket [id: Awyavrs6ov4NuVyzAAAD]
+7/26/2022, 12:59:46 PM - DEBUG - removing cmp
+7/26/2022, 12:59:47 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 12:59:47 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:02:53 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:02:53 PM - DEBUG - Getting Cmp
+7/26/2022, 1:02:53 PM - DEBUG - Getting cmps
+7/26/2022, 1:02:53 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:02:53 PM - DEBUG - Getting Waps
+7/26/2022, 1:02:53 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:02:53 PM - INFO - New connected socket [id: F85tR9e4_cvxObHTAAAF]
+7/26/2022, 1:03:03 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:03:06 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:03:25 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:03:27 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:03:27 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:03:34 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:03:35 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:03:35 PM - DEBUG - Getting Waps
+7/26/2022, 1:03:35 PM - DEBUG - Getting Cmp
+7/26/2022, 1:03:35 PM - DEBUG - Getting cmps
+7/26/2022, 1:03:35 PM - INFO - New connected socket [id: oudJr_ENvOTqUOVPAAAH]
+7/26/2022, 1:03:36 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:03:38 PM - DEBUG - removing cmp
+7/26/2022, 1:03:39 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:03:39 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:03:40 PM - DEBUG - removing cmp
+7/26/2022, 1:03:40 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:03:40 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:10:53 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:10:53 PM - DEBUG - removing cmp
+7/26/2022, 1:10:54 PM - INFO - New connected socket [id: UOs8VyT_aFmha8rvAAAB]
+7/26/2022, 1:10:55 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:10:55 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:17:38 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:17:39 PM - INFO - New connected socket [id: DEoNMtvqPpUp8u_tAAAB]
+7/26/2022, 1:17:52 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:17:53 PM - INFO - New connected socket [id: dcsKcakVUbAl6EwiAAAB]
+7/26/2022, 1:17:58 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:17:58 PM - DEBUG - Getting Cmp
+7/26/2022, 1:17:58 PM - DEBUG - Getting cmps
+7/26/2022, 1:17:58 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:17:58 PM - DEBUG - Getting Waps
+7/26/2022, 1:17:58 PM - INFO - New connected socket [id: PSFAnX-AhEneOmHaAAAD]
+7/26/2022, 1:18:05 PM - DEBUG - auth.service - login with username: guy
+7/26/2022, 1:18:05 PM - INFO - User login:  | {"_id":"62dd6bd85acda7649716216a","fullname":"Guy Kadosh","username":"guy","waps":[]}
+7/26/2022, 1:18:05 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: PSFAnX-AhEneOmHaAAAD]
+7/26/2022, 1:18:07 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:18:10 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:18:10 PM - ERROR - Failed to update cmp | {}
+7/26/2022, 1:19:46 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:19:47 PM - INFO - New connected socket [id: u_XHGAI8tgpmXB6ZAAAB]
+7/26/2022, 1:20:04 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:20:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:20:04 PM - DEBUG - Getting Waps
+7/26/2022, 1:20:04 PM - DEBUG - Getting Cmp
+7/26/2022, 1:20:04 PM - DEBUG - Getting cmps
+7/26/2022, 1:20:04 PM - INFO - New connected socket [id: R5kvX5tLieGnKEWxAAAD]
+7/26/2022, 1:20:05 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: R5kvX5tLieGnKEWxAAAD]
+7/26/2022, 1:20:05 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:20:09 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:20:09 PM - ERROR - Failed to update cmp | {}
+7/26/2022, 1:20:33 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:20:33 PM - INFO - New connected socket [id: Xe53z1CHwAtMrTo8AAAB]
+7/26/2022, 1:20:36 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:20:36 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:20:36 PM - DEBUG - Getting Waps
+7/26/2022, 1:20:36 PM - DEBUG - Getting Cmp
+7/26/2022, 1:20:36 PM - DEBUG - Getting cmps
+7/26/2022, 1:20:36 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:20:37 PM - INFO - New connected socket [id: sE_LaxNKerC63IDhAAAD]
+7/26/2022, 1:20:37 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: sE_LaxNKerC63IDhAAAD]
+7/26/2022, 1:20:39 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:20:39 PM - DEBUG - Updating Cmp, service
+7/26/2022, 1:20:39 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 1:20:39 PM - INFO - Emit to all
+7/26/2022, 1:21:09 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:21:09 PM - INFO - New connected socket [id: qRYoW7h9Sx6KjKLHAAAB]
+7/26/2022, 1:22:26 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:22:27 PM - INFO - New connected socket [id: vuwjhRqjfS4MtKuEAAAB]
+7/26/2022, 1:22:30 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:22:30 PM - DEBUG - getting login tokin
+7/26/2022, 1:22:30 PM - DEBUG - Updating Cmp, service
+7/26/2022, 1:22:31 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 1:22:31 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:24:45 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:24:46 PM - INFO - New connected socket [id: cPeOAd-uX7jNEyJiAAAB]
+7/26/2022, 1:25:17 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:25:17 PM - INFO - New connected socket [id: JU13PeNbHzhh9m3wAAAB]
+7/26/2022, 1:25:26 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:25:26 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:25:26 PM - DEBUG - Getting Waps
+7/26/2022, 1:25:26 PM - DEBUG - Getting Cmp
+7/26/2022, 1:25:26 PM - DEBUG - Getting cmps
+7/26/2022, 1:25:26 PM - INFO - New connected socket [id: BthEAsYSJFY84npsAAAD]
+7/26/2022, 1:25:27 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: BthEAsYSJFY84npsAAAD]
+7/26/2022, 1:25:28 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:25:30 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:25:30 PM - DEBUG - getting login tokin
+7/26/2022, 1:25:30 PM - DEBUG - Updating Cmp, service
+7/26/2022, 1:25:31 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 1:25:31 PM - INFO - Emit to all
+7/26/2022, 1:25:55 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:25:57 PM - INFO - New connected socket [id: y3DhebOlDRoK7MYqAAAB]
+7/26/2022, 1:26:44 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:26:44 PM - INFO - New connected socket [id: 8tYr4Yx08bWwOIQlAAAB]
+7/26/2022, 1:26:47 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:26:47 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:26:47 PM - DEBUG - Getting Waps
+7/26/2022, 1:26:47 PM - DEBUG - Getting Cmp
+7/26/2022, 1:26:47 PM - DEBUG - Getting cmps
+7/26/2022, 1:26:47 PM - INFO - New connected socket [id: sTbly2Cz_JQ1hASqAAAD]
+7/26/2022, 1:26:48 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: sTbly2Cz_JQ1hASqAAAD]
+7/26/2022, 1:26:49 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:26:53 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:26:53 PM - DEBUG - getting login tokin
+7/26/2022, 1:26:53 PM - DEBUG - Updating Cmp, service
+7/26/2022, 1:26:54 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 1:26:54 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:27:23 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:27:24 PM - INFO - New connected socket [id: okOfa50yztaUxpaIAAAB]
+7/26/2022, 1:27:25 PM - DEBUG - removing cmp
+7/26/2022, 1:27:27 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:27:27 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:28:19 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:28:20 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:28:20 PM - DEBUG - Getting Waps
+7/26/2022, 1:28:20 PM - DEBUG - Getting Cmp
+7/26/2022, 1:28:20 PM - DEBUG - Getting cmps
+7/26/2022, 1:28:20 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:28:20 PM - INFO - New connected socket [id: T_Sv5bonjq0_zdy4AAAD]
+7/26/2022, 1:28:21 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: T_Sv5bonjq0_zdy4AAAD]
+7/26/2022, 1:28:45 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:28:47 PM - INFO - New connected socket [id: 7qSFKsHpI2U97FGnAAAB]
+7/26/2022, 1:28:50 PM - DEBUG - removing cmp
+7/26/2022, 1:28:51 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:28:51 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:29:55 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:29:56 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:29:56 PM - DEBUG - Getting Waps
+7/26/2022, 1:29:56 PM - DEBUG - Getting Cmp
+7/26/2022, 1:29:56 PM - DEBUG - Getting cmps
+7/26/2022, 1:29:56 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:29:56 PM - INFO - New connected socket [id: YaP6PUzrXU0TqXJeAAAD]
+7/26/2022, 1:29:56 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: YaP6PUzrXU0TqXJeAAAD]
+7/26/2022, 1:29:59 PM - DEBUG - removing cmp
+7/26/2022, 1:29:59 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:29:59 PM - INFO - Emit to all
+7/26/2022, 1:30:14 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:30:14 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:30:15 PM - DEBUG - Getting Waps
+7/26/2022, 1:30:15 PM - DEBUG - Getting Cmp
+7/26/2022, 1:30:15 PM - DEBUG - Getting cmps
+7/26/2022, 1:30:15 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:30:15 PM - INFO - New connected socket [id: hxLWbwIpcPeENZB7AAAF]
+7/26/2022, 1:30:15 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: hxLWbwIpcPeENZB7AAAF]
+7/26/2022, 1:30:20 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:30:21 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:30:21 PM - DEBUG - Getting Waps
+7/26/2022, 1:30:21 PM - DEBUG - Getting Cmp
+7/26/2022, 1:30:21 PM - DEBUG - Getting cmps
+7/26/2022, 1:30:21 PM - INFO - New connected socket [id: xcuvqNTE6M4SO5iEAAAH]
+7/26/2022, 1:30:21 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: xcuvqNTE6M4SO5iEAAAH]
+7/26/2022, 1:30:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:30:23 PM - DEBUG - removing cmp
+7/26/2022, 1:30:23 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:30:23 PM - INFO - Emit to all
+7/26/2022, 1:31:00 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:31:00 PM - DEBUG - removing cmp
+7/26/2022, 1:31:01 PM - INFO - New connected socket [id: AtGnJpoSkk9fiXgEAAAB]
+7/26/2022, 1:31:02 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:31:02 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:31:43 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:31:44 PM - INFO - New connected socket [id: 2M7f9EMvliq90nP1AAAB]
+7/26/2022, 1:31:52 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:31:52 PM - DEBUG - getting login tokin
+7/26/2022, 1:31:52 PM - DEBUG - Updating Cmp, service
+7/26/2022, 1:31:53 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 1:31:53 PM - INFO - Emit to all
+7/26/2022, 1:31:55 PM - DEBUG - removing cmp
+7/26/2022, 1:31:55 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:31:55 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:32:36 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:32:36 PM - DEBUG - removing cmp
+7/26/2022, 1:32:37 PM - INFO - New connected socket [id: C4f1sFGztG4Z91M0AAAB]
+7/26/2022, 1:32:37 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:32:37 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:32:42 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:32:43 PM - DEBUG - removing cmp
+7/26/2022, 1:32:43 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:32:43 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:33:02 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:33:02 PM - DEBUG - Getting Cmp
+7/26/2022, 1:33:02 PM - DEBUG - Getting cmps
+7/26/2022, 1:33:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:33:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:33:02 PM - DEBUG - Getting Waps
+7/26/2022, 1:33:02 PM - INFO - New connected socket [id: PvW5HcAS3ISi1t-TAAAD]
+7/26/2022, 1:33:03 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: PvW5HcAS3ISi1t-TAAAD]
+7/26/2022, 1:33:05 PM - DEBUG - removing cmp
+7/26/2022, 1:33:05 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:33:05 PM - INFO - Emit to all
+7/26/2022, 1:33:43 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:33:44 PM - INFO - New connected socket [id: SxJhGOkv4N13jXLvAAAB]
+7/26/2022, 1:33:48 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:33:49 PM - INFO - New connected socket [id: Narui18z0iNs0XL4AAAB]
+7/26/2022, 1:33:59 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:04 PM - DEBUG - Getting Cmp
+7/26/2022, 1:34:04 PM - DEBUG - Getting cmps
+7/26/2022, 1:34:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:04 PM - DEBUG - Getting Waps
+7/26/2022, 1:34:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:04 PM - INFO - New connected socket [id: ZzdyyVgOeyXEmjV4AAAD]
+7/26/2022, 1:34:10 PM - DEBUG - removing cmp
+7/26/2022, 1:34:11 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:34:11 PM - INFO - Emit to all
+7/26/2022, 1:34:20 PM - DEBUG - removing cmp
+7/26/2022, 1:34:20 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:34:20 PM - INFO - Emit to all
+7/26/2022, 1:34:35 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:35 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:41 PM - INFO - Socket is leaving topic 62dfc3179dd0aa0396e80ca9 [id: Narui18z0iNs0XL4AAAB]
+7/26/2022, 1:34:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:47 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:34:47 PM - DEBUG - Getting Cmp
+7/26/2022, 1:34:47 PM - DEBUG - Getting cmps
+7/26/2022, 1:34:47 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:47 PM - DEBUG - Getting Waps
+7/26/2022, 1:34:47 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:34:47 PM - INFO - New connected socket [id: 63C1k9UVmh0Ol2lEAAAF]
+7/26/2022, 1:34:49 PM - DEBUG - removing cmp
+7/26/2022, 1:34:49 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:34:49 PM - INFO - Emit to all
+7/26/2022, 1:41:22 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:41:22 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:41:22 PM - DEBUG - Getting Cmp
+7/26/2022, 1:41:22 PM - DEBUG - Getting cmps
+7/26/2022, 1:41:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:41:22 PM - DEBUG - Getting Waps
+7/26/2022, 1:41:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:41:22 PM - DEBUG - Getting Waps
+7/26/2022, 1:41:22 PM - DEBUG - Getting Cmp
+7/26/2022, 1:41:22 PM - DEBUG - Getting cmps
+7/26/2022, 1:41:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:41:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:41:23 PM - INFO - New connected socket [id: ABNOikfdehKEmYiDAAAI]
+7/26/2022, 1:41:23 PM - INFO - New connected socket [id: DrkqBKwrHsRR_APJAAAJ]
+7/26/2022, 1:41:23 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: ABNOikfdehKEmYiDAAAI]
+7/26/2022, 1:41:29 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:41:29 PM - DEBUG - Updating Cmp, service
+7/26/2022, 1:41:30 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 1:41:30 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:41:33 PM - DEBUG - removing cmp
+7/26/2022, 1:41:33 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:41:33 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:41:37 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:41:37 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:41:53 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:41:53 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:41:57 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:41:57 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:41:59 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:41:59 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:42:01 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:42:01 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:42:01 PM - DEBUG - Getting Waps
+7/26/2022, 1:42:01 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:42:01 PM - DEBUG - Getting Cmp
+7/26/2022, 1:42:01 PM - DEBUG - Getting cmps
+7/26/2022, 1:42:02 PM - INFO - New connected socket [id: Ov2UNn9HuCMKdprtAAAL]
+7/26/2022, 1:42:02 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: Ov2UNn9HuCMKdprtAAAL]
+7/26/2022, 1:42:04 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:42:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:42:04 PM - DEBUG - Getting Waps
+7/26/2022, 1:42:04 PM - DEBUG - Getting Cmp
+7/26/2022, 1:42:04 PM - DEBUG - Getting cmps
+7/26/2022, 1:42:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:42:04 PM - INFO - New connected socket [id: vWWfauHUkYUvrJVNAAAN]
+7/26/2022, 1:42:06 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:42:06 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:42:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:42:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:22 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:43:23 PM - INFO - New connected socket [id: ywUP1jqxUQfnZX-4AAAB]
+7/26/2022, 1:43:23 PM - INFO - New connected socket [id: 8TiuJrv5eUb6QvFgAAAD]
+7/26/2022, 1:43:27 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:43:28 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:28 PM - DEBUG - Getting Waps
+7/26/2022, 1:43:28 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:28 PM - DEBUG - Getting Cmp
+7/26/2022, 1:43:28 PM - DEBUG - Getting cmps
+7/26/2022, 1:43:28 PM - INFO - New connected socket [id: azXbznxKK1T6zMBpAAAF]
+7/26/2022, 1:43:28 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: azXbznxKK1T6zMBpAAAF]
+7/26/2022, 1:43:31 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:43:32 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:32 PM - DEBUG - Getting Waps
+7/26/2022, 1:43:32 PM - DEBUG - Getting Cmp
+7/26/2022, 1:43:32 PM - DEBUG - Getting cmps
+7/26/2022, 1:43:32 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:32 PM - INFO - New connected socket [id: p1wYi4p2FzXY33PIAAAH]
+7/26/2022, 1:43:37 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:43:41 PM - INFO - Socket is leaving topic 62dfc3409dd0aa0396e80caa [id: azXbznxKK1T6zMBpAAAF]
+7/26/2022, 1:43:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:44 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:44 PM - DEBUG - Getting Waps
+7/26/2022, 1:43:44 PM - DEBUG - Getting Cmp
+7/26/2022, 1:43:44 PM - DEBUG - Getting cmps
+7/26/2022, 1:43:44 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:43:44 PM - INFO - New connected socket [id: meYNv_6nH7UyhD1IAAAJ]
+7/26/2022, 1:43:48 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:43:48 PM - DEBUG - updating wap
+7/26/2022, 1:43:48 PM - INFO - Broadcast to all excluding user: undefined
+7/26/2022, 1:45:10 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:45:10 PM - INFO - New connected socket [id: DLpZnGKln9Zc99YcAAAB]
+7/26/2022, 1:45:10 PM - INFO - New connected socket [id: 9dXQNzoxMnnM0-NDAAAD]
+7/26/2022, 1:45:15 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:45:15 PM - DEBUG - updating wap
+7/26/2022, 1:45:15 PM - INFO - Emit to all
+7/26/2022, 1:45:29 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:45:29 PM - DEBUG - Updating Cmp, service
+7/26/2022, 1:45:29 PM - INFO - Broadcasting event: cmp-updated
+7/26/2022, 1:45:29 PM - INFO - Emit to all
+7/26/2022, 1:45:31 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:45:31 PM - DEBUG - updating wap
+7/26/2022, 1:45:31 PM - INFO - Emit to all
+7/26/2022, 1:45:34 PM - DEBUG - removing cmp
+7/26/2022, 1:45:34 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:45:34 PM - INFO - Emit to all
+7/26/2022, 1:47:10 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:47:10 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:47:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:47:11 PM - DEBUG - Getting Waps
+7/26/2022, 1:47:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:47:11 PM - DEBUG - Getting Cmp
+7/26/2022, 1:47:11 PM - DEBUG - Getting cmps
+7/26/2022, 1:47:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:47:11 PM - DEBUG - Getting Waps
+7/26/2022, 1:47:11 PM - DEBUG - Getting Cmp
+7/26/2022, 1:47:11 PM - DEBUG - Getting cmps
+7/26/2022, 1:47:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:47:11 PM - INFO - New connected socket [id: Js3VBSZ94GObImKTAAAG]
+7/26/2022, 1:47:11 PM - INFO - New connected socket [id: EYIg7e5RPTekBzH0AAAH]
+7/26/2022, 1:47:11 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: Js3VBSZ94GObImKTAAAG]
+7/26/2022, 1:47:19 PM - DEBUG - removing cmp
+7/26/2022, 1:47:19 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:47:19 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:47:24 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:47:24 PM - DEBUG - updating wap
+7/26/2022, 1:47:24 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:47:27 PM - DEBUG - removing cmp
+7/26/2022, 1:47:27 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:47:27 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:47:29 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:47:29 PM - DEBUG - updating wap
+7/26/2022, 1:47:29 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:47:35 PM - DEBUG - removing cmp
+7/26/2022, 1:47:35 PM - INFO - Broadcasting event: cmp-removed
+7/26/2022, 1:47:35 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:47:36 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 1:47:36 PM - DEBUG - updating wap
+7/26/2022, 1:47:36 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 1:48:40 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:48:40 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:48:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:48:41 PM - DEBUG - Getting Waps
+7/26/2022, 1:48:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:48:41 PM - DEBUG - Getting Waps
+7/26/2022, 1:48:41 PM - DEBUG - Getting Cmp
+7/26/2022, 1:48:41 PM - DEBUG - Getting cmps
+7/26/2022, 1:48:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:48:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 1:48:41 PM - DEBUG - Getting Cmp
+7/26/2022, 1:48:41 PM - DEBUG - Getting cmps
+7/26/2022, 1:48:41 PM - INFO - New connected socket [id: TDxF87FLhx-Lbn0JAAAK]
+7/26/2022, 1:48:41 PM - INFO - New connected socket [id: TpWEWzKL_A5x28RGAAAL]
+7/26/2022, 1:48:41 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: TDxF87FLhx-Lbn0JAAAK]
+7/26/2022, 1:48:44 PM - DEBUG - removing cmp
+7/26/2022, 1:48:44 PM - ERROR - Failed to remove cmp | {}
+7/26/2022, 3:02:15 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:02:15 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:03:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:03:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:03:23 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:03:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:03:23 PM - DEBUG - Getting Waps
+7/26/2022, 3:03:23 PM - DEBUG - Getting Cmp
+7/26/2022, 3:03:23 PM - DEBUG - Getting cmps
+7/26/2022, 3:03:23 PM - INFO - New connected socket [id: jsAB60YtKVted4BoAAAN]
+7/26/2022, 3:03:24 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: jsAB60YtKVted4BoAAAN]
+7/26/2022, 3:08:10 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:09:52 PM - INFO - Server is running on port: 3030
+7/26/2022, 3:09:52 PM - INFO - New connected socket [id: g7ME5wyFdnZ989isAAAC]
+7/26/2022, 3:09:52 PM - INFO - New connected socket [id: JXY2X2C_zIe690zkAAAD]
+7/26/2022, 3:10:07 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:10:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:10:08 PM - DEBUG - Getting Waps
+7/26/2022, 3:10:08 PM - DEBUG - Getting Cmp
+7/26/2022, 3:10:08 PM - DEBUG - Getting cmps
+7/26/2022, 3:10:08 PM - INFO - New connected socket [id: JXA4SP1TaMIjtagkAAAF]
+7/26/2022, 3:10:08 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: JXA4SP1TaMIjtagkAAAF]
+7/26/2022, 3:10:12 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:10:30 PM - INFO - Server is running on port: 3030
+7/26/2022, 3:10:30 PM - INFO - New connected socket [id: wTZ6uQ_D5oKJNT4RAAAB]
+7/26/2022, 3:10:31 PM - INFO - New connected socket [id: hvYtVWHX6eIWkTWhAAAD]
+7/26/2022, 3:10:46 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:10:46 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:12:16 PM - INFO - Server is running on port: 3030
+7/26/2022, 3:12:16 PM - INFO - New connected socket [id: DCk1dPUmCi6uNmgDAAAB]
+7/26/2022, 3:12:17 PM - INFO - New connected socket [id: 8HSYz_Di73zLWIBaAAAD]
+7/26/2022, 3:14:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:14:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:17:05 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:17:05 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:17:36 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:17:36 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:18:02 PM - INFO - Server is running on port: 3030
+7/26/2022, 3:18:04 PM - INFO - New connected socket [id: NeapcqsWuaqI0-c7AAAC]
+7/26/2022, 3:18:04 PM - INFO - New connected socket [id: kVkR-zWqfJb83hLaAAAD]
+7/26/2022, 3:20:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:20:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:27:26 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:27:26 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:27:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:27:27 PM - DEBUG - Getting Waps
+7/26/2022, 3:27:27 PM - DEBUG - Getting Cmp
+7/26/2022, 3:27:27 PM - DEBUG - Getting cmps
+7/26/2022, 3:27:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:27:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:27:27 PM - DEBUG - Getting Waps
+7/26/2022, 3:27:27 PM - DEBUG - Getting Cmp
+7/26/2022, 3:27:27 PM - DEBUG - Getting cmps
+7/26/2022, 3:27:27 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:27:27 PM - INFO - New connected socket [id: s4UgsVqiW1JlMGGXAAAG]
+7/26/2022, 3:27:27 PM - INFO - New connected socket [id: _CvkLwIudq1ESTfwAAAH]
+7/26/2022, 3:27:28 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: _CvkLwIudq1ESTfwAAAH]
+7/26/2022, 3:27:54 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:27:54 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:31:05 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:31:32 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:31:34 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:31:34 PM - DEBUG - Getting Waps
+7/26/2022, 3:31:34 PM - DEBUG - Getting Cmp
+7/26/2022, 3:31:34 PM - DEBUG - Getting cmps
+7/26/2022, 3:31:34 PM - INFO - New connected socket [id: locCzTAqihkKeDxaAAAJ]
+7/26/2022, 3:31:34 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: locCzTAqihkKeDxaAAAJ]
+7/26/2022, 3:31:35 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:31:49 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:31:49 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:31:52 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 3:31:52 PM - DEBUG - updating wap
+7/26/2022, 3:31:52 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 3:32:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:32:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:32:10 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:32:10 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:32:10 PM - DEBUG - Getting Waps
+7/26/2022, 3:32:10 PM - DEBUG - Getting Cmp
+7/26/2022, 3:32:10 PM - DEBUG - Getting cmps
+7/26/2022, 3:32:11 PM - INFO - New connected socket [id: -dht_hvyGO5LXDAEAAAL]
+7/26/2022, 3:32:11 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: -dht_hvyGO5LXDAEAAAL]
+7/26/2022, 3:32:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:32:34 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:32:37 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:32:37 PM - DEBUG - Getting Waps
+7/26/2022, 3:32:37 PM - DEBUG - Getting Cmp
+7/26/2022, 3:32:37 PM - DEBUG - Getting cmps
+7/26/2022, 3:32:37 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:32:37 PM - INFO - New connected socket [id: 1l1_EU6kjema2nDbAAAN]
+7/26/2022, 3:34:01 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:34:01 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:35:31 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:35:31 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:35:35 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:35:43 PM - INFO - Socket is leaving topic 62dfdecb17656fcb0c69fc8c [id: -dht_hvyGO5LXDAEAAAL]
+7/26/2022, 3:35:43 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:35:48 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:35:48 PM - DEBUG - Getting Waps
+7/26/2022, 3:35:48 PM - DEBUG - Getting Cmp
+7/26/2022, 3:35:48 PM - DEBUG - Getting cmps
+7/26/2022, 3:35:48 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:35:48 PM - INFO - New connected socket [id: 0pufDuCxPC-SWXetAAAP]
+7/26/2022, 3:36:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:36:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:37:59 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:38:00 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:38:00 PM - DEBUG - Getting Waps
+7/26/2022, 3:38:00 PM - DEBUG - Getting Cmp
+7/26/2022, 3:38:00 PM - DEBUG - Getting cmps
+7/26/2022, 3:38:00 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:38:00 PM - INFO - New connected socket [id: LKYdqI4Wnb_2FqPvAAAR]
+7/26/2022, 3:38:02 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:38:04 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:38:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:38:04 PM - DEBUG - Getting Waps
+7/26/2022, 3:38:04 PM - DEBUG - Getting Cmp
+7/26/2022, 3:38:04 PM - DEBUG - Getting cmps
+7/26/2022, 3:38:04 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:38:04 PM - INFO - New connected socket [id: G1GezQaLEHEBzzmhAAAT]
+7/26/2022, 3:38:04 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: G1GezQaLEHEBzzmhAAAT]
+7/26/2022, 3:38:08 PM - INFO - Socket is leaving topic 62dfdf9f17656fcb0c69fc8d [id: G1GezQaLEHEBzzmhAAAT]
+7/26/2022, 3:38:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:38:13 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:38:13 PM - DEBUG - Getting Waps
+7/26/2022, 3:38:13 PM - DEBUG - Getting Cmp
+7/26/2022, 3:38:13 PM - DEBUG - Getting cmps
+7/26/2022, 3:38:13 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:38:13 PM - INFO - New connected socket [id: Kfx3E6y6e7MGRwgmAAAV]
+7/26/2022, 3:41:30 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:41:57 PM - INFO - Socket is leaving topic 62dfe03017656fcb0c69fc8e [id: Kfx3E6y6e7MGRwgmAAAV]
+7/26/2022, 3:41:57 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:42:25 PM - ERROR - Failed to update wap | {}
+7/26/2022, 3:42:27 PM - ERROR - Failed to update wap | {}
+7/26/2022, 3:42:35 PM - ERROR - Failed to update wap | {}
+7/26/2022, 3:42:38 PM - ERROR - Failed to update wap | {}
+7/26/2022, 3:44:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:44:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:50:26 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:50:26 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:50:40 PM - INFO - Socket is leaving topic 62dfe03017656fcb0c69fc8e [id: G1GezQaLEHEBzzmhAAAT]
+7/26/2022, 3:50:40 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:50:45 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:50:45 PM - DEBUG - Getting Cmp
+7/26/2022, 3:50:45 PM - DEBUG - Getting cmps
+7/26/2022, 3:50:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:50:45 PM - DEBUG - Getting Waps
+7/26/2022, 3:50:45 PM - INFO - New connected socket [id: jHY42h7HR1FrG5tfAAAX]
+7/26/2022, 3:50:47 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:51:30 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:51:45 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:51:46 PM - DEBUG - Getting Cmp
+7/26/2022, 3:51:46 PM - DEBUG - Getting cmps
+7/26/2022, 3:51:46 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:51:46 PM - DEBUG - Getting Waps
+7/26/2022, 3:51:46 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:51:46 PM - INFO - New connected socket [id: 0-w7IhnDZlIUH7SJAAAZ]
+7/26/2022, 3:51:46 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: 0-w7IhnDZlIUH7SJAAAZ]
+7/26/2022, 3:51:50 PM - INFO - Socket is leaving topic 62dfe32017656fcb0c69fc90 [id: 0-w7IhnDZlIUH7SJAAAZ]
+7/26/2022, 3:51:50 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:52:06 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 3:52:06 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:52:24 PM - INFO - Broadcasting event: wap-updated
+7/26/2022, 3:52:24 PM - DEBUG - updating wap
+7/26/2022, 3:52:24 PM - INFO - Broadcast to all excluding user: 62dd6bd85acda7649716216a
+7/26/2022, 3:52:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:52:41 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:52:51 PM - INFO - New connected socket [id: UDN5rmieicGkPZNxAAAb]
+7/26/2022, 3:53:11 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:53:11 PM - DEBUG - Updating Cmp, service
+7/26/2022, 3:53:11 PM - ERROR - Failed to update cmp | {}
+7/26/2022, 3:53:16 PM - INFO - Sample Logger Middleware
+7/26/2022, 3:53:16 PM - DEBUG - Updating Cmp, service
+7/26/2022, 3:53:16 PM - ERROR - Failed to update cmp | {}
+7/26/2022, 4:14:19 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:14:19 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:16:57 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:16:58 PM - DEBUG - Getting Cmp
+7/26/2022, 4:16:58 PM - DEBUG - Getting cmps
+7/26/2022, 4:16:58 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:16:58 PM - DEBUG - Getting Waps
+7/26/2022, 4:16:58 PM - INFO - New connected socket [id: dw65ub3bMHhvmDk7AAAd]
+7/26/2022, 4:16:58 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: dw65ub3bMHhvmDk7AAAd]
+7/26/2022, 4:17:01 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:17:31 PM - INFO - Socket is leaving topic 62dfe36617656fcb0c69fc92 [id: UDN5rmieicGkPZNxAAAb]
+7/26/2022, 4:17:31 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:17:31 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:17:54 PM - INFO - Socket is leaving topic 62dfe94d17656fcb0c69fc93 [id: dw65ub3bMHhvmDk7AAAd]
+7/26/2022, 4:17:54 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:18:02 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:18:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:18:02 PM - DEBUG - Getting Waps
+7/26/2022, 4:18:02 PM - DEBUG - Getting Cmp
+7/26/2022, 4:18:02 PM - DEBUG - Getting cmps
+7/26/2022, 4:18:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:18:03 PM - INFO - New connected socket [id: Q6YpOqAKEH8lbwVuAAAf]
+7/26/2022, 4:19:01 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:19:02 PM - DEBUG - Getting Cmp
+7/26/2022, 4:19:02 PM - DEBUG - Getting cmps
+7/26/2022, 4:19:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:19:02 PM - DEBUG - Getting Waps
+7/26/2022, 4:19:02 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:19:02 PM - INFO - New connected socket [id: 6V4hoy-N4hKIrDuFAAAh]
+7/26/2022, 4:19:02 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: 6V4hoy-N4hKIrDuFAAAh]
+7/26/2022, 4:20:22 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:20:22 PM - DEBUG - Getting Cmp
+7/26/2022, 4:20:22 PM - DEBUG - Getting cmps
+7/26/2022, 4:20:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:20:22 PM - DEBUG - Getting Waps
+7/26/2022, 4:20:22 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:20:22 PM - INFO - New connected socket [id: n4BLO2ch2dU9Xqb4AAAj]
+7/26/2022, 4:20:24 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:20:25 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:20:25 PM - DEBUG - Getting Waps
+7/26/2022, 4:20:25 PM - DEBUG - Getting Cmp
+7/26/2022, 4:20:25 PM - DEBUG - Getting cmps
+7/26/2022, 4:20:28 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:20:28 PM - INFO - New connected socket [id: jdZ1r0YUUeuKpcPqAAAl]
+7/26/2022, 4:20:28 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: jdZ1r0YUUeuKpcPqAAAl]
+7/26/2022, 4:28:30 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:28:30 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:36:43 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:36:43 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:36:43 PM - DEBUG - Getting Cmp
+7/26/2022, 4:36:43 PM - DEBUG - Getting cmps
+7/26/2022, 4:36:43 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:36:43 PM - DEBUG - Getting Waps
+7/26/2022, 4:36:43 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:36:43 PM - DEBUG - Getting Cmp
+7/26/2022, 4:36:43 PM - DEBUG - Getting cmps
+7/26/2022, 4:36:43 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:36:43 PM - DEBUG - Getting Waps
+7/26/2022, 4:36:43 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:36:43 PM - INFO - New connected socket [id: dxvvCdB3iMCqy9qRAAAo]
+7/26/2022, 4:36:43 PM - INFO - New connected socket [id: tzZi5eO5uR_RcoxjAAAp]
+7/26/2022, 4:36:44 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: dxvvCdB3iMCqy9qRAAAo]
+7/26/2022, 4:37:07 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:37:07 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:41:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:41:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:41:35 PM - INFO - Server is running on port: 3030
+7/26/2022, 4:41:35 PM - INFO - New connected socket [id: COKn_Yl61v_r94MuAAAB]
+7/26/2022, 4:41:36 PM - INFO - New connected socket [id: MoItTSr4MAKZTzxGAAAD]
+7/26/2022, 4:42:08 PM - INFO - Server is running on port: 3030
+7/26/2022, 4:42:08 PM - INFO - New connected socket [id: v0A5uOU56u4dBcJaAAAB]
+7/26/2022, 4:42:09 PM - INFO - New connected socket [id: djyJtLKhH19QX2nlAAAD]
+7/26/2022, 4:44:42 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:44:42 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:45:28 PM - INFO - Server is running on port: 3030
+7/26/2022, 4:45:29 PM - INFO - New connected socket [id: pO4ceUjduWmdj8trAAAB]
+7/26/2022, 4:45:29 PM - INFO - New connected socket [id: M3OCln8Z4TMg03XjAAAD]
+7/26/2022, 4:46:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:46:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:46:31 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:46:31 PM - DEBUG - Getting Cmp
+7/26/2022, 4:46:31 PM - DEBUG - Getting cmps
+7/26/2022, 4:46:31 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:46:31 PM - DEBUG - Getting Waps
+7/26/2022, 4:46:31 PM - INFO - New connected socket [id: WFP5VZBSUeLcT4LUAAAF]
+7/26/2022, 4:46:32 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: WFP5VZBSUeLcT4LUAAAF]
+7/26/2022, 4:46:33 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:46:45 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:46:45 PM - DEBUG - Getting Cmp
+7/26/2022, 4:46:45 PM - DEBUG - Getting cmps
+7/26/2022, 4:46:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:46:45 PM - DEBUG - Getting Waps
+7/26/2022, 4:46:45 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:46:45 PM - INFO - New connected socket [id: KRPKMsI_weRY7TFhAAAH]
+7/26/2022, 4:47:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:47:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:47:11 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:47:12 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:47:12 PM - DEBUG - Getting Waps
+7/26/2022, 4:47:12 PM - DEBUG - Getting Cmp
+7/26/2022, 4:47:12 PM - DEBUG - Getting cmps
+7/26/2022, 4:47:13 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:47:13 PM - INFO - New connected socket [id: LuaCroRgsHhH-1S6AAAJ]
+7/26/2022, 4:47:13 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: LuaCroRgsHhH-1S6AAAJ]
+7/26/2022, 4:47:19 PM - INFO - Socket is leaving topic 62dff03945d62a07ce5bf768 [id: LuaCroRgsHhH-1S6AAAJ]
+7/26/2022, 4:47:19 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:47:37 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:47:38 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:47:38 PM - DEBUG - Getting Waps
+7/26/2022, 4:47:38 PM - DEBUG - Getting Cmp
+7/26/2022, 4:47:38 PM - DEBUG - Getting cmps
+7/26/2022, 4:47:38 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:47:38 PM - INFO - New connected socket [id: If-TeLZBENMmVQ7hAAAL]
+7/26/2022, 4:48:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:08 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:12 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:48:12 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:12 PM - DEBUG - Getting Waps
+7/26/2022, 4:48:12 PM - DEBUG - Getting Cmp
+7/26/2022, 4:48:12 PM - DEBUG - Getting cmps
+7/26/2022, 4:48:12 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:12 PM - INFO - New connected socket [id: fw0NzXwDpYjXNEOpAAAN]
+7/26/2022, 4:48:15 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:48:15 PM - DEBUG - Getting Cmp
+7/26/2022, 4:48:15 PM - DEBUG - Getting cmps
+7/26/2022, 4:48:15 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:15 PM - DEBUG - Getting Waps
+7/26/2022, 4:48:15 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:15 PM - INFO - New connected socket [id: 2wl3dKlg3kBCR2LEAAAP]
+7/26/2022, 4:48:15 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: 2wl3dKlg3kBCR2LEAAAP]
+7/26/2022, 4:48:17 PM - INFO - Socket is leaving topic 62dff06645d62a07ce5bf769 [id: 2wl3dKlg3kBCR2LEAAAP]
+7/26/2022, 4:48:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:23 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:48:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:23 PM - DEBUG - Getting Waps
+7/26/2022, 4:48:23 PM - DEBUG - Getting Cmp
+7/26/2022, 4:48:23 PM - DEBUG - Getting cmps
+7/26/2022, 4:48:23 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:48:23 PM - INFO - New connected socket [id: 1Bf_AzzAdXxD6db7AAAR]
+7/26/2022, 4:49:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:49:17 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:49:49 PM - INFO - Server is running on port: 3030
+7/26/2022, 4:49:50 PM - INFO - New connected socket [id: eubnPGAHdnVLU_MEAAAB]
+7/26/2022, 4:49:50 PM - INFO - New connected socket [id: _7MN0SCoQXw7U836AAAD]
+7/26/2022, 4:51:46 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:51:46 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:52:39 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:52:39 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:53:03 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:53:03 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:53:03 PM - DEBUG - Getting Waps
+7/26/2022, 4:53:03 PM - DEBUG - Getting Cmp
+7/26/2022, 4:53:03 PM - DEBUG - Getting cmps
+7/26/2022, 4:53:03 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:53:03 PM - INFO - New connected socket [id: pjrnzrhPbKUJZb-RAAAF]
+7/26/2022, 4:53:05 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 4:53:05 PM - DEBUG - Getting Cmp
+7/26/2022, 4:53:05 PM - DEBUG - Getting cmps
+7/26/2022, 4:53:05 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:53:05 PM - DEBUG - Getting Waps
+7/26/2022, 4:53:05 PM - INFO - Sample Logger Middleware
+7/26/2022, 4:53:05 PM - INFO - New connected socket [id: SPikrX6MsQOb4x2vAAAH]
+7/26/2022, 4:53:06 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: SPikrX6MsQOb4x2vAAAH]
+>>>>>>> e29c1a17d29832b45c94e978e0984f181b0350fb
