@@ -6,7 +6,7 @@ const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
 
 async function login(username, password) {
   logger.debug(`auth.service - login with username: ${username}`)
-
+  console.log(username)
   const user = await userService.getByUsername(username)
   // if (!user) return Promise.reject('Invalid username or password')
   if (!user) throw new Error('Invalid username or password')
@@ -19,21 +19,27 @@ async function login(username, password) {
   return user
 }
 
-async function signup(username, password, fullname) {
+async function signup({ username, password, fullname }) {
   const saltRounds = 10
 
   logger.debug(
     `auth.service - signup with username: ${username}, fullname: ${fullname}`
   )
 
-  if (!username || !password || !fullname)
+  // if (!username || !password || !fullname)
+  //   return Promise.reject('fullname, username and password are required!')
+  if (!username)
     return Promise.reject('fullname, username and password are required!')
 
+  if (!password) password = '123'
+  if (username === 'guest') username = 'guest' + _makeId()
   const userExist = await userService.getByUsername(username)
   if (userExist) return Promise.reject('Username already taken')
 
-  const hash = await bcrypt.hash(password, saltRounds)
-  return userService.add({ username, password: hash, fullname })
+  // for real login
+  // const hash = await bcrypt.hash(password, saltRounds)
+  // return userService.add({ username, password: hash, fullname })
+  return userService.add({ username, password, fullname })
 }
 
 function getLoginToken(user) {
@@ -49,6 +55,15 @@ function validateToken(loginToken) {
     console.log('Invalid login token')
   }
   return null
+}
+
+function _makeId(length = 3) {
+  var txt = ''
+  var possible = '0123456789'
+  for (var i = 0; i < length; i++) {
+    txt += possible.charAt(Math.floor(Math.random() * possible.length))
+  }
+  return 0 + txt
 }
 
 module.exports = {
