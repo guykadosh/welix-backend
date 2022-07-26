@@ -3430,3 +3430,12 @@
 7/26/2022, 4:53:05 PM - INFO - Sample Logger Middleware
 7/26/2022, 4:53:05 PM - INFO - New connected socket [id: SPikrX6MsQOb4x2vAAAH]
 7/26/2022, 4:53:06 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: SPikrX6MsQOb4x2vAAAH]
+7/26/2022, 5:00:19 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 5:00:19 PM - DEBUG - Getting Cmp
+7/26/2022, 5:00:19 PM - DEBUG - Getting cmps
+7/26/2022, 5:00:19 PM - INFO - Sample Logger Middleware
+7/26/2022, 5:00:19 PM - DEBUG - Getting Waps
+7/26/2022, 5:00:19 PM - INFO - New connected socket [id: egWvS8fIxVhGCfkwAAAJ]
+7/26/2022, 5:00:20 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: egWvS8fIxVhGCfkwAAAJ]
+7/26/2022, 5:00:39 PM - INFO - Sample Logger Middleware
+7/26/2022, 5:00:39 PM - DEBUG - Getting Waps
