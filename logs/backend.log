@@ -2370,3 +2370,20 @@
 7/26/2022, 8:44:24 AM - DEBUG - Updating Cmp, service
 7/26/2022, 8:44:24 AM - INFO - Sample Logger Middleware
 7/26/2022, 8:44:24 AM - DEBUG - Updating Cmp, service
+7/26/2022, 10:05:25 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:05:25 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - DEBUG - Getting Waps
+7/26/2022, 10:05:27 AM - DEBUG - Getting Cmp
+7/26/2022, 10:05:27 AM - DEBUG - Getting cmps
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - INFO - New connected socket [id: qPi4fQg5Q3l1bd5NAAAK]
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - DEBUG - Getting Waps
+7/26/2022, 10:05:27 AM - DEBUG - Getting Cmp
+7/26/2022, 10:05:27 AM - DEBUG - Getting cmps
+7/26/2022, 10:05:27 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:05:27 AM - INFO - New connected socket [id: 0l5xy5Ogjm4EXfnjAAAL]
+7/26/2022, 10:11:00 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:11:23 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:17:30 AM - INFO - Server is running on port: 3030
