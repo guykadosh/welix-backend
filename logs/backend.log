@@ -2388,3 +2388,26 @@
 7/26/2022, 10:11:23 AM - INFO - Socket disconnected [id: undefined]
 7/26/2022, 10:17:30 AM - INFO - Server is running on port: 3030
 7/26/2022, 10:35:06 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:41:34 AM - DEBUG - Getting Cmp
+7/26/2022, 10:41:34 AM - DEBUG - Getting cmps
+7/26/2022, 10:41:34 AM - INFO - New connected socket [id: qynWjPFELhBeI2g_AAAB]
+7/26/2022, 10:41:58 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:41:58 AM - DEBUG - Getting Cmp
+7/26/2022, 10:41:58 AM - DEBUG - Getting cmps
+7/26/2022, 10:41:58 AM - INFO - New connected socket [id: F4E4-8CNWc-BM2GpAAAD]
+7/26/2022, 10:42:21 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:42:24 AM - INFO - New connected socket [id: Amrn1v8a0-YUSEFHAAAB]
+7/26/2022, 10:42:28 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:42:28 AM - DEBUG - Getting Cmp
+7/26/2022, 10:42:28 AM - DEBUG - Getting cmps
+7/26/2022, 10:42:28 AM - INFO - New connected socket [id: FxQlcCX-yGvBWqvLAAAD]
+7/26/2022, 10:43:07 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:43:08 AM - INFO - New connected socket [id: e-vWwvyMthfcZo67AAAB]
+7/26/2022, 10:43:09 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:43:09 AM - DEBUG - Getting Cmp
+7/26/2022, 10:43:09 AM - DEBUG - Getting cmps
+7/26/2022, 10:43:09 AM - INFO - Sample Logger Middleware
+7/26/2022, 10:43:09 AM - DEBUG - Getting Waps
+7/26/2022, 10:43:09 AM - INFO - New connected socket [id: hD3rJEOP-9P4D8iBAAAD]
+7/26/2022, 10:46:53 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:46:55 AM - INFO - New connected socket [id: 7H1fO2a7aqBPan7sAAAB]
