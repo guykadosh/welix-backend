@@ -51,6 +51,8 @@ async function updateWap(req, res) {
     const { loginToken } = req.cookies
     const loggedinUser = authService.validateToken(loginToken)
 
+    console.log(loggedinUser)
+
     const updatedWap = await wapService.update(wap)
     broadcast({
       type: 'wap-updated',
