@@ -1,11 +1,12 @@
 const wapService = require('./wap.service.js')
 const logger = require('../../services/logger.service')
+const { emitTo } = require('../../services/socket.service.js')
 
 // GET LIST
 async function getWaps(req, res) {
   try {
     logger.debug('Getting Waps')
-    console.log('req.query', req.query)
+    // console.log('req.query', req.query)
     var queryParams = req.query
     const waps = await wapService.query(queryParams)
     res.json(waps)
@@ -45,6 +46,7 @@ async function updateWap(req, res) {
   try {
     const wap = req.body
     const updatedWap = await wapService.update(wap)
+
     res.json(updatedWap)
   } catch (err) {
     logger.error('Failed to update wap', err)
@@ -72,6 +74,8 @@ async function updateCmp(req, res) {
     // cmp = JSON.parse(cmp)
     // console.log(cmp, wapId)
     const updatedCmp = await wapService.updateCmp(wapId, cmp)
+    emitTo({ type: 'cmp-updated', data: updatedCmp })
+    console.log(updatedCmp)
     res.json(updatedCmp)
   } catch (err) {
     logger.error('Failed to update cmp', err)

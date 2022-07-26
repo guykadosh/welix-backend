@@ -4,11 +4,12 @@ const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
   try {
-    console.log('fitlerBy', filterBy)
+    // console.log('fitlerBy', filterBy)
     const criteria = _buildCriteria(filterBy)
-    console.log(criteria)
+    // console.log('criteria:', criteria)
     const collection = await dbService.getCollection('wap')
     var waps = await collection.find(criteria).toArray()
+    // console.log(waps)
     return waps
   } catch (err) {
     logger.error('cannot find waps', err)
@@ -20,7 +21,7 @@ async function getById(wapId) {
   try {
     const collection = await dbService.getCollection('wap')
     const wap = await collection.findOne({ _id: ObjectId(wapId) })
-    console.log(wap)
+    // console.log(wap)
     return wap
   } catch (err) {
     logger.error(`while finding wap ${wapId}`, err)
@@ -73,7 +74,7 @@ async function updateCmp(wapId, cmp) {
     const collection = await dbService.getCollection('wap')
     const wap = await collection.findOne({ _id: ObjectId(wapId) })
     console.log('SEMEK ARSE')
-    console.log(wap)
+    // console.log(wap)
     // find and update cmp
     let idx = wap.cmps.findIndex(currCmp => currCmp.id === cmp.id)
 
@@ -147,9 +148,14 @@ module.exports = {
 }
 
 function _buildCriteria(
-  filterBy = { isPublic: undefined, userId: '', isTemplate: undefined }
+  filterBy = {
+    isPublic: undefined,
+    userId: '',
+    isTemplate: undefined,
+    fullname: '',
+  }
 ) {
-  const { isPublic, userId, isTemplate } = filterBy
+  const { isPublic, userId, isTemplate, fullname } = filterBy
 
   const criteria = {}
 
@@ -162,7 +168,13 @@ function _buildCriteria(
   }
 
   if (userId) {
-    criteria.createdBy = { $elemMatch: { _id: userId } }
+    // criteria.createdBy = { _id: userId }
+    console.log('userId')
+    criteria['createdBy._id'] = userId
+  }
+
+  if (fullname) {
+    criteria['createdBy.fullname'] = fullname
   }
 
   return criteria
