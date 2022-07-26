@@ -51,12 +51,13 @@ function setupSocketAPI(http) {
     })
     socket.on('mouse_activity', data => {
       // console.log(pos)
+      // console.log(data)
       socket.broadcast.emit('all_mouse_activity', {
         id: socket.id,
-        style: {
+        name: data.username,
+        pos: {
           top: data.y + 'px',
           left: data.x + 'px',
-          name: data.username,
         },
       })
     })
