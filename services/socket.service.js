@@ -49,6 +49,17 @@ function setupSocketAPI(http) {
       logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
       delete socket.userId
     })
+    socket.on('mouse_activity', data => {
+      // console.log(pos)
+      socket.broadcast.emit('all_mouse_activity', {
+        id: socket.id,
+        style: {
+          top: data.y + 'px',
+          left: data.x + 'px',
+          name: data.username,
+        },
+      })
+    })
   })
 }
 

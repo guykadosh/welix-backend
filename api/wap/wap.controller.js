@@ -1,6 +1,8 @@
 const wapService = require('./wap.service.js')
 const logger = require('../../services/logger.service')
-const { emitTo } = require('../../services/socket.service.js')
+const userService = require('../user/user.service')
+const authService = require('../auth/auth.service')
+const { emitTo, broadcast } = require('../../services/socket.service.js')
 
 // GET LIST
 async function getWaps(req, res) {
@@ -45,8 +47,18 @@ async function addWap(req, res) {
 async function updateWap(req, res) {
   try {
     const wap = req.body
-    const updatedWap = await wapService.update(wap)
 
+    const { loginToken } = req.cookies
+    const loggedinUser = authService.validateToken(loginToken)
+
+    const updatedWap = await wapService.update(wap)
+    broadcast({
+      type: 'wap-updated',
+      data: updatedWap,
+      userId: loggedinUser._id,
+    })
+    // console.log(updatedWap)
+    logger.debug('updating wap')
     res.json(updatedWap)
   } catch (err) {
     logger.error('Failed to update wap', err)
@@ -59,6 +71,7 @@ async function removeWap(req, res) {
   try {
     const wapId = req.params.id
     await wapService.remove(wapId)
+    // broadcast({'removedWap'})
     res.send('Removed')
   } catch (err) {
     logger.error('Failed to remove wap', err)
@@ -73,9 +86,21 @@ async function updateCmp(req, res) {
     // console.log(req.body)
     // cmp = JSON.parse(cmp)
     // console.log(cmp, wapId)
+
+    // logger.debug('getting login tokin')
+    // console.log(loginToken)
+    // console.log(loggedinUser)
+    const { loginToken } = req.cookies
+    const loggedinUser = authService.validateToken(loginToken)
+
     const updatedCmp = await wapService.updateCmp(wapId, cmp)
-    emitTo({ type: 'cmp-updated', data: updatedCmp })
-    console.log(updatedCmp)
+    broadcast({
+      type: 'cmp-updated',
+      data: updatedCmp,
+      userId: loggedinUser._id,
+    })
+
+    // console.log(updatedCmp)
     res.json(updatedCmp)
   } catch (err) {
     logger.error('Failed to update cmp', err)
@@ -87,8 +112,19 @@ async function updateCmp(req, res) {
 async function removeCmp(req, res) {
   try {
     const wapId = req.params.id
+    console.log(wapId)
     const { cmpId } = req.body
+    // console.log(req.body)
+    // console.log(cmpId)
+    logger.debug('removing cmp')
+    const { loginToken } = req.cookies
+    const loggedinUser = authService.validateToken(loginToken)
+
     await wapService.removeCmp(wapId, cmpId)
+
+    broadcast({ type: 'cmp-removed', data: cmpId, userId: loggedinUser._id })
+
+    res.send('removed')
   } catch (err) {
     logger.error('Failed to remove cmp', err)
     res.status(500).send({ err: 'Failed to remove cmp' })
