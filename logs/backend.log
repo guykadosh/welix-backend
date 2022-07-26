@@ -3439,3 +3439,6 @@
 7/26/2022, 5:00:20 PM - INFO - Setting socket.userId = 62dd6bd85acda7649716216a for socket [id: egWvS8fIxVhGCfkwAAAJ]
 7/26/2022, 5:00:39 PM - INFO - Sample Logger Middleware
 7/26/2022, 5:00:39 PM - DEBUG - Getting Waps
+7/26/2022, 5:03:46 PM - INFO - Server is running on port: 3030
+7/26/2022, 5:03:47 PM - INFO - New connected socket [id: oTiZQDjMKIV3LgFMAAAC]
+7/26/2022, 5:03:47 PM - INFO - New connected socket [id: cg2wbAdjH8Lgx-XcAAAD]
