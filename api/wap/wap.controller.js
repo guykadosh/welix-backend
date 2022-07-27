@@ -48,17 +48,17 @@ async function updateWap(req, res) {
   try {
     const wap = req.body
 
-    const { loginToken } = req.cookies
-    const loggedinUser = authService.validateToken(loginToken)
+    // const { loginToken } = req.cookies
+    // const loggedinUser = authService.validateToken(loginToken)
 
-    console.log(loggedinUser)
+    // console.log(loggedinUser)
 
     const updatedWap = await wapService.update(wap)
-    broadcast({
-      type: 'wap-updated',
-      data: updatedWap,
-      userId: loggedinUser._id,
-    })
+    // broadcast({
+    //   type: 'wap-updated',
+    //   data: updatedWap,
+    //   userId: loggedinUser._id,
+    // })
     // console.log(updatedWap)
     logger.debug('updating wap')
     res.json(updatedWap)
@@ -92,15 +92,15 @@ async function updateCmp(req, res) {
     // logger.debug('getting login tokin')
     // console.log(loginToken)
     // console.log(loggedinUser)
-    const { loginToken } = req.cookies
-    const loggedinUser = authService.validateToken(loginToken)
+    // const { loginToken } = req.cookies
+    // const loggedinUser = authService.validateToken(loginToken)
 
     const updatedCmp = await wapService.updateCmp(wapId, cmp)
-    broadcast({
-      type: 'cmp-updated',
-      data: updatedCmp,
-      userId: loggedinUser._id,
-    })
+    // broadcast({
+    //   type: 'cmp-updated',
+    //   data: updatedCmp,
+    //   userId: loggedinUser._id,
+    // })
 
     // console.log(updatedCmp)
     res.json(updatedCmp)
