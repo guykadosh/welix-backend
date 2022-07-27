@@ -13,25 +13,53 @@ function setupSocketAPI(http) {
     socket.on('disconnect', socket => {
       logger.info(`Socket disconnected [id: ${socket.id}]`)
     })
-    socket.on('chat-set-topic', topic => {
-      if (socket.myTopic === topic) return
-      if (socket.myTopic) {
-        socket.leave(socket.myTopic)
+
+    // When user or guest joins editor
+    socket.on('set-editor', editorId => {
+      if (socket.currEditor === editorId) return
+      if (socket.currEditor) {
+        socket.leave(socket.currEditor)
         logger.info(
-          `Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`
+          `Socket is leaving topic ${socket.currEditor} [id: ${socket.id}]`
         )
       }
-      socket.join(topic)
-      socket.myTopic = topic
+      socket.join(editorId)
+      socket.currEditor = editorId
     })
+
+    // When one of the users updating wap
+    socket.on('wap-updated', wap => {
+      logger.info(
+        `Wap update from socket [id: ${socket.id}], emitting wap changes to ${socket.currEditor}`
+      )
+      broadcast({
+        type: 'wap-updated',
+        data: wap,
+        room: socket.currEditor,
+        userId: socket.id,
+      })
+    })
+
+    socket.on('cmp-updated', cmp => {
+      logger.info(
+        `Cmp update from socket [id: ${socket.id}], emitting cmp changes to ${socket.currEditor}`
+      )
+      broadcast({
+        type: 'cmp-updated',
+        data: cmp,
+        room: socket.currEditor,
+        userId: socket.id,
+      })
+    })
+
     socket.on('chat-send-msg', msg => {
       logger.info(
-        `New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`
+        `New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.currEditor}`
       )
       // emits to all sockets:
       // gIo.emit('chat addMsg', msg)
       // emits only to sockets in the same room
-      gIo.to(socket.myTopic).emit('chat-add-msg', msg)
+      gIo.to(socket.currEditor).emit('chat-add-msg', msg)
     })
     socket.on('user-watch', userId => {
       logger.info(
@@ -52,14 +80,30 @@ function setupSocketAPI(http) {
     socket.on('mouse_activity', data => {
       // console.log(pos)
       // console.log(data)
-      socket.broadcast.emit('all_mouse_activity', {
+      const pointer = {
         id: socket.id,
         name: data.username,
         pos: {
           top: data.y + 'px',
           left: data.x + 'px',
         },
+      }
+
+      broadcast({
+        type: 'all_mouse_activity',
+        data: pointer,
+        room: socket.currEditor,
+        userId: socket.id,
       })
+
+      // socket.broadcast.emit('all_mouse_activity', {
+      //   id: socket.id,
+      //   name: data.username,
+      //   pos: {
+      //     top: data.y + 'px',
+      //     left: data.x + 'px',
+      //   },
+      // })
     })
   })
 }
@@ -87,6 +131,7 @@ async function emitToUser({ type, data, userId }) {
 // Optionally, broadcast to a room / to all
 async function broadcast({ type, data, room = null, userId }) {
   logger.info(`Broadcasting event: ${type}`)
+  console.log()
   const excludedSocket = await _getUserSocket(userId)
   if (room && excludedSocket) {
     logger.info(`Broadcast to room ${room} excluding user: ${userId}`)
@@ -105,7 +150,7 @@ async function broadcast({ type, data, room = null, userId }) {
 
 async function _getUserSocket(userId) {
   const sockets = await _getAllSockets()
-  const socket = sockets.find(s => s.userId === userId)
+  const socket = sockets.find(s => s.id === userId)
   return socket
 }
 async function _getAllSockets() {
