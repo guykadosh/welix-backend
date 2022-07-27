@@ -1,5 +1,6 @@
 const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
+const { updateWap } = require('./wap.controller')
 const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
@@ -21,8 +22,12 @@ async function getById(wapId) {
   try {
     const collection = await dbService.getCollection('wap')
     const wap = await collection.findOne({ _id: ObjectId(wapId) })
-    // console.log(wap)
-    return wap
+    if (!wap.weeklyViews) wap.weeklyViews = [0, 0, 0, 0, 0, 0, 0]
+    const day = new Date().getDay()
+    console.log(day)
+    wap.weeklyViews[day]++
+    const updatedWap = await update(wap)
+    return updatedWap
   } catch (err) {
     logger.error(`while finding wap ${wapId}`, err)
     throw err
