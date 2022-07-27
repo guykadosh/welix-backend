@@ -5061,3 +5061,205 @@
 7/26/2022, 11:41:52 PM - INFO - Setting socket.userId = 62e0457688e7ea96642a8831 for socket [id: Sfm_sVioRmZ_qnYpAAAL]
 7/26/2022, 11:41:54 PM - INFO - Socket disconnected [id: undefined]
 7/27/2022, 6:26:45 AM - INFO - Server is running on port: 3030
+7/27/2022, 6:32:46 AM - INFO - Server is running on port: 3030
+7/27/2022, 6:33:13 AM - INFO - Server is running on port: 3030
+7/27/2022, 6:33:55 AM - DEBUG - Getting Cmp
+7/27/2022, 6:33:55 AM - DEBUG - Getting cmps
+7/27/2022, 6:33:55 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:33:55 AM - DEBUG - Getting Waps
+7/27/2022, 6:33:55 AM - INFO - New connected socket [id: D-GbBGruqvw1GmJuAAAB]
+7/27/2022, 6:38:58 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:38:59 AM - DEBUG - Getting Cmp
+7/27/2022, 6:38:59 AM - DEBUG - Getting cmps
+7/27/2022, 6:38:59 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:38:59 AM - DEBUG - Getting Waps
+7/27/2022, 6:38:59 AM - INFO - New connected socket [id: ebAzmjWZtenmrjZiAAAD]
+7/27/2022, 6:39:48 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:39:48 AM - DEBUG - Getting Cmp
+7/27/2022, 6:39:48 AM - DEBUG - Getting cmps
+7/27/2022, 6:39:48 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:39:48 AM - DEBUG - Getting Waps
+7/27/2022, 6:39:48 AM - INFO - New connected socket [id: OeqKCWadTTqEBKnpAAAF]
+7/27/2022, 6:48:59 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:49:00 AM - DEBUG - Getting Cmp
+7/27/2022, 6:49:00 AM - DEBUG - Getting cmps
+7/27/2022, 6:49:00 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:49:00 AM - DEBUG - Getting Waps
+7/27/2022, 6:49:04 AM - INFO - New connected socket [id: 0jPmmRqrdl2SihbIAAAH]
+7/27/2022, 6:49:59 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:50:00 AM - DEBUG - Getting Cmp
+7/27/2022, 6:50:00 AM - DEBUG - Getting cmps
+7/27/2022, 6:50:00 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:50:00 AM - DEBUG - Getting Waps
+7/27/2022, 6:50:01 AM - INFO - New connected socket [id: kYyZfb7MKbaEo-8sAAAJ]
+7/27/2022, 6:51:48 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:51:50 AM - DEBUG - Getting Cmp
+7/27/2022, 6:51:50 AM - DEBUG - Getting cmps
+7/27/2022, 6:51:50 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:51:50 AM - DEBUG - Getting Waps
+7/27/2022, 6:51:50 AM - INFO - New connected socket [id: uTTb0ztFhpgsHKYRAAAL]
+7/27/2022, 6:51:59 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:52:00 AM - DEBUG - Getting Cmp
+7/27/2022, 6:52:00 AM - DEBUG - Getting cmps
+7/27/2022, 6:52:00 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:52:00 AM - DEBUG - Getting Waps
+7/27/2022, 6:52:00 AM - INFO - New connected socket [id: 5n6M2PMB9C8UrV7NAAAN]
+7/27/2022, 6:52:44 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:52:45 AM - DEBUG - Getting Cmp
+7/27/2022, 6:52:45 AM - DEBUG - Getting cmps
+7/27/2022, 6:52:45 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:52:45 AM - DEBUG - Getting Waps
+7/27/2022, 6:52:45 AM - INFO - New connected socket [id: EO0wodS8lKldfZfDAAAP]
+7/27/2022, 6:52:56 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 6:52:57 AM - INFO - Sample Logger Middleware
+7/27/2022, 6:52:57 AM - DEBUG - Getting Waps
+7/27/2022, 6:52:57 AM - DEBUG - Getting Cmp
+7/27/2022, 6:52:57 AM - DEBUG - Getting cmps
+7/27/2022, 6:52:57 AM - INFO - New connected socket [id: 0slOJtArVpI8OQFKAAAR]
+7/27/2022, 6:59:59 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:00:00 AM - INFO - Sample Logger Middleware
+7/27/2022, 7:00:00 AM - DEBUG - Getting Waps
+7/27/2022, 7:00:00 AM - DEBUG - Getting Cmp
+7/27/2022, 7:00:00 AM - DEBUG - Getting cmps
+7/27/2022, 7:00:00 AM - INFO - New connected socket [id: TAyBj6da-l0H_do5AAAT]
+7/27/2022, 7:02:48 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:02:48 AM - DEBUG - Getting Cmp
+7/27/2022, 7:02:48 AM - DEBUG - Getting cmps
+7/27/2022, 7:02:48 AM - INFO - Sample Logger Middleware
+7/27/2022, 7:02:48 AM - DEBUG - Getting Waps
+7/27/2022, 7:02:48 AM - INFO - New connected socket [id: ciH51UsOq0YVOtypAAAV]
+7/27/2022, 7:35:28 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:35:29 AM - DEBUG - Getting Cmp
+7/27/2022, 7:35:29 AM - DEBUG - Getting cmps
+7/27/2022, 7:35:29 AM - INFO - Sample Logger Middleware
+7/27/2022, 7:35:29 AM - DEBUG - Getting Waps
+7/27/2022, 7:35:29 AM - INFO - New connected socket [id: bx-miirE4iagXOGTAAAX]
+7/27/2022, 7:35:41 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:35:42 AM - DEBUG - Getting Cmp
+7/27/2022, 7:35:42 AM - DEBUG - Getting cmps
+7/27/2022, 7:35:42 AM - INFO - Sample Logger Middleware
+7/27/2022, 7:35:42 AM - DEBUG - Getting Waps
+7/27/2022, 7:35:42 AM - INFO - New connected socket [id: n9DGveZpXOqew_YlAAAZ]
+7/27/2022, 8:06:47 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:06:48 AM - DEBUG - Getting Cmp
+7/27/2022, 8:06:48 AM - DEBUG - Getting cmps
+7/27/2022, 8:06:48 AM - INFO - Sample Logger Middleware
+7/27/2022, 8:06:48 AM - DEBUG - Getting Waps
+7/27/2022, 8:06:48 AM - INFO - New connected socket [id: J41RcoS9ccnuA12_AAAb]
+7/27/2022, 8:57:49 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:57:50 AM - INFO - Sample Logger Middleware
+7/27/2022, 8:57:50 AM - DEBUG - Getting Waps
+7/27/2022, 8:57:50 AM - DEBUG - Getting Cmp
+7/27/2022, 8:57:50 AM - DEBUG - Getting cmps
+7/27/2022, 8:57:50 AM - INFO - New connected socket [id: 8BaH7m2MTRiKyDJBAAAd]
+7/27/2022, 9:05:08 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:05:43 AM - DEBUG - Getting Cmp
+7/27/2022, 9:05:43 AM - DEBUG - Getting cmps
+7/27/2022, 9:05:43 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:05:43 AM - DEBUG - Getting Waps
+7/27/2022, 9:05:43 AM - INFO - New connected socket [id: Zy6kaBGWMov5bb6fAAAf]
+7/27/2022, 9:06:46 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:06:47 AM - DEBUG - Getting Cmp
+7/27/2022, 9:06:47 AM - DEBUG - Getting cmps
+7/27/2022, 9:06:47 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:06:47 AM - DEBUG - Getting Waps
+7/27/2022, 9:06:47 AM - INFO - New connected socket [id: ddrqcz2kPZfqigKfAAAh]
+7/27/2022, 9:07:22 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:07:23 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:07:23 AM - DEBUG - Getting Waps
+7/27/2022, 9:07:23 AM - DEBUG - Getting Cmp
+7/27/2022, 9:07:23 AM - DEBUG - Getting cmps
+7/27/2022, 9:07:24 AM - INFO - New connected socket [id: ulk0pA-zaxogOA-AAAAj]
+7/27/2022, 9:07:33 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:07:34 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:07:34 AM - DEBUG - Getting Waps
+7/27/2022, 9:07:34 AM - DEBUG - Getting Cmp
+7/27/2022, 9:07:34 AM - DEBUG - Getting cmps
+7/27/2022, 9:07:34 AM - INFO - New connected socket [id: zPcIJMf0GH52SsgtAAAl]
+7/27/2022, 9:08:51 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:08:52 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:08:52 AM - DEBUG - Getting Waps
+7/27/2022, 9:08:52 AM - DEBUG - Getting Cmp
+7/27/2022, 9:08:52 AM - DEBUG - Getting cmps
+7/27/2022, 9:08:52 AM - INFO - New connected socket [id: CdUCsEvOT4umO0jSAAAn]
+7/27/2022, 9:09:18 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:09:19 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:09:19 AM - DEBUG - Getting Waps
+7/27/2022, 9:09:19 AM - DEBUG - Getting Cmp
+7/27/2022, 9:09:19 AM - DEBUG - Getting cmps
+7/27/2022, 9:09:19 AM - INFO - New connected socket [id: 4iD8a6GwJVCmpl-kAAAp]
+7/27/2022, 9:09:50 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:09:51 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:09:51 AM - DEBUG - Getting Waps
+7/27/2022, 9:09:51 AM - DEBUG - Getting Cmp
+7/27/2022, 9:09:51 AM - DEBUG - Getting cmps
+7/27/2022, 9:09:51 AM - INFO - New connected socket [id: 3NwAJA_G_JCUj1kdAAAr]
+7/27/2022, 9:10:14 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:10:15 AM - DEBUG - Getting Cmp
+7/27/2022, 9:10:15 AM - DEBUG - Getting cmps
+7/27/2022, 9:10:15 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:10:15 AM - DEBUG - Getting Waps
+7/27/2022, 9:10:15 AM - INFO - New connected socket [id: dFPwS2A7M2E1M_0PAAAt]
+7/27/2022, 9:12:03 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:12:04 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:12:04 AM - DEBUG - Getting Waps
+7/27/2022, 9:12:04 AM - DEBUG - Getting Cmp
+7/27/2022, 9:12:04 AM - DEBUG - Getting cmps
+7/27/2022, 9:12:05 AM - INFO - New connected socket [id: UusbCQ9S-JeJCsPpAAAv]
+7/27/2022, 9:15:50 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:15:51 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:15:51 AM - DEBUG - Getting Waps
+7/27/2022, 9:15:51 AM - DEBUG - Getting Cmp
+7/27/2022, 9:15:51 AM - DEBUG - Getting cmps
+7/27/2022, 9:15:51 AM - INFO - New connected socket [id: SJIbwKx024px7iLdAAAx]
+7/27/2022, 9:18:01 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:18:02 AM - DEBUG - Getting Cmp
+7/27/2022, 9:18:02 AM - DEBUG - Getting cmps
+7/27/2022, 9:18:02 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:18:02 AM - DEBUG - Getting Waps
+7/27/2022, 9:18:02 AM - INFO - New connected socket [id: aAIO0pjFtORiGKwRAAAz]
+7/27/2022, 9:18:19 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:18:20 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:18:20 AM - DEBUG - Getting Waps
+7/27/2022, 9:18:20 AM - DEBUG - Getting Cmp
+7/27/2022, 9:18:20 AM - DEBUG - Getting cmps
+7/27/2022, 9:18:20 AM - INFO - New connected socket [id: ZeM10WIs3XgSmZPaAAA1]
+7/27/2022, 9:19:05 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:19:06 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:19:06 AM - DEBUG - Getting Waps
+7/27/2022, 9:19:06 AM - DEBUG - Getting Cmp
+7/27/2022, 9:19:06 AM - DEBUG - Getting cmps
+7/27/2022, 9:19:06 AM - INFO - New connected socket [id: 3gOG9YN2DcPjULcIAAA3]
+7/27/2022, 9:42:29 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:42:30 AM - DEBUG - Getting Cmp
+7/27/2022, 9:42:30 AM - DEBUG - Getting cmps
+7/27/2022, 9:42:30 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:42:30 AM - DEBUG - Getting Waps
+7/27/2022, 9:42:30 AM - INFO - New connected socket [id: dhwwnPbAVy6GSVhTAAA5]
+7/27/2022, 9:43:24 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:43:25 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:43:25 AM - DEBUG - Getting Waps
+7/27/2022, 9:43:25 AM - DEBUG - Getting Cmp
+7/27/2022, 9:43:25 AM - DEBUG - Getting cmps
+7/27/2022, 9:43:25 AM - INFO - New connected socket [id: TR2GyYh69GTsFsDrAAA7]
+7/27/2022, 9:43:33 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:43:34 AM - DEBUG - Getting Cmp
+7/27/2022, 9:43:34 AM - DEBUG - Getting cmps
+7/27/2022, 9:43:34 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:43:34 AM - DEBUG - Getting Waps
+7/27/2022, 9:43:34 AM - INFO - New connected socket [id: lPDx42Uetm1eVD9yAAA9]
+7/27/2022, 9:51:41 AM - DEBUG - auth.service - signup with username: guest, fullname: undefined
+7/27/2022, 9:51:41 AM - DEBUG - auth.route - new account created: {"username":"guest0253","password":"123","_id":"62e0e07d9e5ef351dbf48d5b"}
+7/27/2022, 9:51:41 AM - DEBUG - auth.service - login with username: undefined
+7/27/2022, 9:51:41 AM - ERROR - Failed to Login Error: Invalid username or password
+7/27/2022, 9:51:49 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:52:08 AM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 9:52:11 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:52:11 AM - DEBUG - Getting Waps
+7/27/2022, 9:52:11 AM - DEBUG - Getting Cmp
+7/27/2022, 9:52:11 AM - DEBUG - Getting cmps
+7/27/2022, 9:52:11 AM - INFO - New connected socket [id: F1nPaTHMj58EL5GEAAA_]
+7/27/2022, 9:52:11 AM - INFO - Setting socket.userId = 62e0e07d9e5ef351dbf48d5b for socket [id: F1nPaTHMj58EL5GEAAA_]
+7/27/2022, 9:52:16 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:53:24 AM - INFO - Sample Logger Middleware
+7/27/2022, 9:54:12 AM - INFO - Sample Logger Middleware
