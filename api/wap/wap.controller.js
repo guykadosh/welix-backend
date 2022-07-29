@@ -120,12 +120,12 @@ async function removeCmp(req, res) {
     // console.log(req.body)
     // console.log(cmpId)
     logger.debug('removing cmp')
-    const { loginToken } = req.cookies
-    const loggedinUser = authService.validateToken(loginToken)
+    // const { loginToken } = req.cookies
+    // const loggedinUser = authService.validateToken(loginToken)
 
     await wapService.removeCmp(wapId, cmpId)
 
-    broadcast({ type: 'cmp-removed', data: cmpId, userId: loggedinUser._id })
+    // broadcast({ type: 'cmp-removed', data: cmpId, userId: loggedinUser._id })
 
     res.send('removed')
   } catch (err) {

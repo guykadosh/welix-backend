@@ -52,6 +52,18 @@ function setupSocketAPI(http) {
       })
     })
 
+    socket.on('cmp-removed', cmpId => {
+      logger.info(
+        `Cmp update from socket [id: ${socket.id}], emitting cmp changes to ${socket.currEditor}`
+      )
+      broadcast({
+        type: 'cmp-removed',
+        data: cmpId,
+        room: socket.currEditor,
+        userId: socket.id,
+      })
+    })
+
     socket.on('chat-send-msg', msg => {
       logger.info(
         `New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.currEditor}`

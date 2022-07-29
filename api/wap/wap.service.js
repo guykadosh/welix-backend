@@ -23,8 +23,9 @@ async function getById(wapId) {
     const collection = await dbService.getCollection('wap')
     const wap = await collection.findOne({ _id: ObjectId(wapId) })
     if (!wap.weeklyViews) wap.weeklyViews = [0, 0, 0, 0, 0, 0, 0]
+    if (!wap.totalViews) wap.totalViews = 0
     const day = new Date().getDay()
-    console.log(day)
+    wap.totalViews++
     wap.weeklyViews[day]++
     const updatedWap = await update(wap)
     return updatedWap
@@ -47,6 +48,7 @@ async function remove(wapId) {
 
 async function add(wap) {
   try {
+    wap.createdAt = new Date()
     const collection = await dbService.getCollection('wap')
     const { insertedId } = await collection.insertOne(wap)
     wap._id = insertedId
