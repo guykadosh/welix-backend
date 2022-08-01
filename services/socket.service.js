@@ -16,6 +16,8 @@ function setupSocketAPI(http) {
 
     // When user or guest joins editor
     socket.on('set-editor', editorId => {
+      console.log('Setting editor tp', editorId)
+      const { wapId } = editorId
       if (socket.currEditor === editorId) return
       if (socket.currEditor) {
         socket.leave(socket.currEditor)
@@ -23,8 +25,11 @@ function setupSocketAPI(http) {
           `Socket is leaving topic ${socket.currEditor} [id: ${socket.id}]`
         )
       }
-      socket.join(editorId)
-      socket.currEditor = editorId
+      socket.join(wapId)
+      socket.currEditor = wapId
+      logger.info(
+        `Socket is entering topic ${socket.currEditor} [id: ${socket.id}]`
+      )
     })
 
     // When one of the users updating wap
@@ -32,6 +37,7 @@ function setupSocketAPI(http) {
       logger.info(
         `Wap update from socket [id: ${socket.id}], emitting wap changes to ${socket.currEditor}`
       )
+      console.log(socket.currEditor)
       broadcast({
         type: 'wap-updated',
         data: wap,
@@ -143,9 +149,9 @@ async function emitToUser({ type, data, userId }) {
 // Optionally, broadcast to a room / to all
 async function broadcast({ type, data, room = null, userId }) {
   // logger.info(`Broadcasting event: ${type}`)
-
   const excludedSocket = await _getUserSocket(userId)
   if (room && excludedSocket) {
+    // console.log(room, excludedSocket)
     // logger.info(`Broadcast to room ${room} excluding user: ${userId}`)
     excludedSocket.broadcast.to(room).emit(type, data)
   } else if (excludedSocket) {
